@@ -8,6 +8,7 @@
       href="lib/sugar-web/graphics/css/sugar-96dpi.css">
 <link rel="stylesheet" media="screen and (device-width: 1200px) and (device-height: 900px)"
       href="lib/sugar-web/graphics/css/sugar-200dpi.css">
+<link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/activity.css">
 <script data-main="js/loader" src="lib/require.js"></script>
 </head>
@@ -15,21 +16,20 @@
 <body>
 <div id="main-toolbar" class="toolbar">
   <button class="toolbutton" id="activity-button" title="My Activity"></button>
-
-  <!-- Add more buttons here -->
-
-  <!-- Buttons with class="pull-right" will be right aligned -->
   <button class="toolbutton pull-right" id="stop-button" title="Stop"></button>
 </div>
 
-<!-- The content of your activity goes inside the canvas -->
-<div id="canvas">
-
-  <!-- Replace this message with your own content -->
-  <h1>Congratulations!</h1>
-  <p>You are ready to develop this activity. Go ahead and edit the files.<br />
-    You can remove this message in the index.html.</p>
-
+<div class="row" id="canvas">
+  <div class="col-xs-6" id="col-left">
+  </div>
+  <div class="col-xs-6" id="col-right">
+  </div>
+  <div id="description">
+    <h1>Ortografía</h1>
+    <p>Selección el nivel de dificultad</p>
+    <p><button>Seleccionar</button></p>
+    <p><button></button></p>
+  </div>
 </div>
 </body>
 

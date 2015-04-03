@@ -1,3 +1,29 @@
 #main-toolbar #activity-button {
   background-image: url(../activity/activity-icon.svg);
 }
+
+#canvas {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#col-left {
+  background-color: #317993;
+  height: 100%;
+}
+
+#col-right {
+  background-color: #2CC8A5;
+  height: 100%;
+}
+
+#description {
+  position: absolute;
+  top: 120px;
+  width: 300px;
+  border: 1px solid #fff;
+}
+
+.colors {
+color: #B5858D;
+}
