@@ -17,11 +17,36 @@
   height: 100%;
 }
 
-#description {
+#description-game {
   position: absolute;
   top: 120px;
-  width: 300px;
-  border: 1px solid #fff;
+  left: 533px;
+  width: 350px;
+  text-align: center;
+}
+
+#description-game button {
+  width: 100px;
+  margin: 20px;
+}
+
+#description-game h1 {
+  font-size: 30px;
+  text-shadow: 0 0 3px #fff;
+  text-transform: uppercase;
+}
+
+.select-div {
+  padding: 0 10px 5px 10px;
+}
+
+select {
+  background-color: #e5e5e5;
+  border: 2px solid #e5e5e5;
+  -webkit-border-radius: 22px;
+  line-height: 22px;
+  outline: 0 none;
+  padding: 4px;
 }
 
 .colors {

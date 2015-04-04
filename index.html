@@ -8,7 +8,7 @@
       href="lib/sugar-web/graphics/css/sugar-96dpi.css">
 <link rel="stylesheet" media="screen and (device-width: 1200px) and (device-height: 900px)"
       href="lib/sugar-web/graphics/css/sugar-200dpi.css">
-<link rel="stylesheet" href="css/grid12.css">
+<link rel="stylesheet" href="css/simplegrid.css">
 <link rel="stylesheet" href="css/activity.css">
 <script data-main="js/loader" src="lib/require.js"></script>
 </head>
@@ -16,19 +16,18 @@
 <body>
 <div id="main-toolbar" class="toolbar">
   <button class="toolbutton" id="activity-button" title="My Activity"></button>
+  <button class="toolbutton" id="option-button" title="Options"></button>
   <button class="toolbutton pull-right" id="stop-button" title="Stop"></button>
 </div>
 
-<div class="row" id="canvas">
-  <div class="col-xs-6" id="col-left">
+<div class="grid" id="canvas">
+  <div class="col-1-2" id="col-left">
   </div>
-  <div class="col-xs-6" id="col-right">
+  <div class="col-1-2" id="col-right">
   </div>
-  <div id="description">
+  <div id="description-game">
     <h1>Ortografía</h1>
     <p>Selección el nivel de dificultad</p>
-    <p><button>Seleccionar</button></p>
-    <p><button></button></p>
   </div>
 </div>
 </body>
