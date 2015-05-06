@@ -8,18 +8,18 @@
   background: url(../images/bg_test.jpg) no-repeat 0 0;
 }
 
-#description-game {
+#box-game {
   position: absolute;
   width: 450px;
   text-align: center;
 }
 
-#description-game button {
+#box-game button {
   width: 100px;
   margin: 20px;
 }
 
-#description-game h1 {
+#box-game h1 {
   font-size: 30px;
   text-shadow: 0 0 3px #fff;
   text-transform: uppercase;

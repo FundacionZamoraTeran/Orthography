@@ -4,38 +4,71 @@ define(function (require) {
     var icon = require("sugar-web/graphics/icon");
     var l10n = require("webL10n");
 
+
+    var boxGame = document.getElementById('box-game');
+    var op1 = document.getElementById('op1');
+    var op2 = document.getElementById('op2');
+    var sentence = document.getElementById('sentence');
+    boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
+    boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
+    var contador = 0;
+
+    var listWords = [
+        {
+            'sentence': 'La ___ es bonita',
+            'op1': 'caza',
+            'op2': 'casa',
+            'op1_concepto': 'Verbo',
+            'op2_concepto': 'Sustantivo',
+            'answer': 'casa',
+        },
+        {
+            'sentence': 'Ya le puse el ______ a la caña de pescar.',
+            'op1': 'cebo',
+            'op2': 'sebo',
+            'op1_concepto': 'Comida o cosas que simulan serlo',
+            'op2_concepto': 'Grasa sólida y dura que se extrae de algunos animales',
+            'answer': 'cebo',
+        },
+    ];
+
+    function randomSentence() {
+        return listWords[Math.floor(Math.random() * (listWords.length))];
+    }
+
+    function checkWord(option, answer) {
+        // console.log(option.innerHTML);
+        // console.log(answer.answer);
+        // console.log('===========================================');
+        if (option.innerHTML === answer.answer) {
+            setGame();
+        }
+
+        else {
+            sentence.innerHTML = "Muy mal";
+        }
+
+    }
+
+    function setGame() {
+        contador += 1;
+        var word = randomSentence();
+        console.log('*************');
+        console.log(contador);
+        console.log(word.sentence);
+        console.log(word.op1);
+        console.log(word.op2);
+        console.log('*************');
+        sentence.innerHTML = word.sentence;
+        op1.innerHTML = word.op1;
+        op2.innerHTML = word.op2;
+        op1.addEventListener('click', function() { checkWord(this, word); })
+        op2.addEventListener('click', function() { checkWord(this, word); })
+    }
+
     require(['domReady!'], function (doc) {
         activity.setup();
-        // Cuadro de juego
-        var description_game = document.getElementById('description-game');
-        description_game.style.left = String((window.innerWidth / 2) - (description_game.offsetWidth / 2)) + "px";
-        description_game.style.top = String((window.innerHeight / 3) - (description_game.offsetHeight)) + "px";
-
-        var listWords = [
-            {
-                'sentence': 'La ___ es bonita',
-                'op1': 'caza',
-                'op2': 'casa',
-                'op1_concepto': 'Verbo',
-                'op2_concepto': 'Sustantivo',
-                'answer': 'op2',
-            },
-            {
-                'sentence': 'Ya le puse el ______ a la caña de pescar.',
-                'op1': 'cebo',
-                'op2': 'sebo',
-                'op1_concepto': 'Comida o cosas que simulan serlo',
-                'op2_concepto': 'Grasa sólida y dura que se extrae de algunos animales',
-                'answer': 'op1',
-            },
-        ];
-        word = listWords[Math.floor(Math.random() * (listWords.length))];
-        document.getElementById('sentence').innerHTML = word.sentence;
-        document.getElementById('op1').innerHTML = word.op1;
-        document.getElementById('op2').innerHTML = word.op2;
-
-
-
+        word = setGame();
 
         // Barra superior
         var optionButton = document.getElementById("option-button");
