@@ -4,13 +4,7 @@ define(function (require) {
     var icon = require("sugar-web/graphics/icon");
     var l10n = require("webL10n");
 
-
-    var boxGame = document.getElementById('box-game');
-    var op1 = document.getElementById('op1');
-    var op2 = document.getElementById('op2');
-    var sentence = document.getElementById('sentence');
-    boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
-    boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
+   /*
     var contador = 0;
 
     var listWords = [
@@ -33,13 +27,17 @@ define(function (require) {
     ];
 
     function randomSentence() {
-        return listWords[Math.floor(Math.random() * (listWords.length))];
+        rand = Math.floor(Math.random() * (listWords.length));
+        console.log("Random!!!!!!!!!!!!!!!!");
+        console.log(rand)
+        return listWords[rand];
     }
 
     function checkWord(option, answer) {
-        // console.log(option.innerHTML);
-        // console.log(answer.answer);
-        // console.log('===========================================');
+        console.log('===========================================');
+        console.log(option.innerHTML);
+        console.log(answer.answer);
+        console.log('===========================================');
         if (option.innerHTML === answer.answer) {
             setGame();
         }
@@ -64,12 +62,83 @@ define(function (require) {
         op2.innerHTML = word.op2;
         op1.addEventListener('click', function() { checkWord(this, word); })
         op2.addEventListener('click', function() { checkWord(this, word); })
+    }*/
+
+
+    var words = null;
+
+    function getWords(level) {
+        if (words == null) {
+            words = require("words");
+        }
+        return words[level][Math.floor(Math.random() * (words[level].length))];
+    }
+
+    function Game() {
+        this.level = '';
+        this.currentWord = [];
+        this.answer = '';
+
+        this.start = function() {
+            this.currentWord = getWords(this.level);
+            this.answer = this.currentWord['answer'];
+            sentence.innerHTML = this.currentWord['sentence'];
+            if (this.level == 'level_1') {
+                document.getElementById('op1').innerHTML = this.currentWord['op1'];
+                document.getElementById('op2').innerHTML = this.currentWord['op2'];
+            }
+        }
+
+        this.checkAnswer = function(answer) {
+            if (answer == this.answer) {
+                this.start();
+            }
+            else {
+                console.log('MAL');
+            }
+        }
     }
 
     require(['domReady!'], function (doc) {
         activity.setup();
-        word = setGame();
+        var boxGame = document.getElementById('box-game');
+        boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
+        boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
+        var sentence = document.getElementById('sentence');
+        var answerBox = document.getElementById('answer-box');
+        var levelOne = document.getElementById('level-one');
+        var levelTwo = document.getElementById('level-two');
 
+        game = new Game();
+
+        levelOne.addEventListener('click', function() {
+            game.level = 'level_1';
+            answerBox.innerHTML =
+                '<button id="op1"></button>' +
+                '<button id="op2"></button>';
+            game.start();
+            var op1 = document.getElementById('op1');
+            var op2 = document.getElementById('op2');
+            op1.addEventListener('click', function() {
+                game.checkAnswer(this.innerHTML);
+            });
+            op2.addEventListener('click', function() {
+                game.checkAnswer(this.innerHTML);
+            });
+
+        });
+
+        levelTwo.addEventListener('click', function(){
+            game.level = 'level_2';
+            answerBox.innerHTML = '<input type="text" id="answer">';
+            game.start();
+            var answerInput = document.getElementById('answer');
+            answerInput.addEventListener('change', function() {
+                game.checkAnswer(this.value);
+                this.value = '';
+            });
+
+        });
         // Barra superior
         var optionButton = document.getElementById("option-button");
         var optionPallete = new palette.Palette(optionButton, "Opciones");
