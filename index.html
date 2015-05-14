@@ -8,6 +8,7 @@
       href="lib/sugar-web/graphics/css/sugar-96dpi.css">
 <link rel="stylesheet" media="screen and (device-width: 1200px) and (device-height: 900px)"
       href="lib/sugar-web/graphics/css/sugar-200dpi.css">
+<link rel="stylesheet" href="css/simplegrid.css">
 <link rel="stylesheet" href="css/activity.css">
 <script data-main="js/loader" src="lib/require.js"></script>
 </head>
@@ -19,19 +20,25 @@
   <button class="toolbutton pull-right" id="stop-button" title="Stop"></button>
 </div>
 
-<div class="grid" id="canvas">
-  <div class="col-1-2" id="col-left">
-  </div>
-  <div class="col-1-2" id="col-right">
-  </div>
-  <div id="box-game" style="background-color: white;">
-    <h1 id="sentence">Elija un nivel</h1>
-    <div id="answer-box">
-      <button id="level-one" class="level-button">Nivel 1</button>
-      <button id="level-two" class="level-button">Nivel 2</button>
-    </div>
+<div id="canvas">
 
+
+  <div id="box-game" class="grid">
+    <div id="top-box">
+      <h1 id="sentence" class="main-sentence">Ortodesafío</h1>
+    </div>
+    <div id="answer-box">
+      <div class="col-1-2" id="col-left">
+        <h2 class="option-title">Modo 1</h2>
+        <button id="level-one" class="level-button">Nivel 1</button>
+      </div>
+      <div class="col-1-2" id="col-right">
+        <h2 class="option-title">Modo 2</h2>
+        <button id="level-two" class="level-button">Nivel 2</button>
+      </div>
+    </div>
   </div>
+
 </div>
 </body>
 

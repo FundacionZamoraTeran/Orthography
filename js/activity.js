@@ -83,6 +83,11 @@ define(function (require) {
             this.currentWord = getWords(this.level);
             this.answer = this.currentWord['answer'];
             sentence.innerHTML = this.currentWord['sentence'];
+
+            if (sentence.className == 'main-sentence') {
+                sentence.className = '';
+            }
+
             if (this.level == 'level_1') {
                 document.getElementById('op1').innerHTML = this.currentWord['op1'];
                 document.getElementById('op2').innerHTML = this.currentWord['op2'];
@@ -103,7 +108,7 @@ define(function (require) {
         activity.setup();
         var boxGame = document.getElementById('box-game');
         boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
-        boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
+        boxGame.style.top = String((window.innerHeight / 2) - (boxGame.offsetHeight)) + "px";
         var sentence = document.getElementById('sentence');
         var answerBox = document.getElementById('answer-box');
         var levelOne = document.getElementById('level-one');
@@ -114,8 +119,13 @@ define(function (require) {
         levelOne.addEventListener('click', function() {
             game.level = 'level_1';
             answerBox.innerHTML =
+                '<h2 class="option-title">Selecciona la palabra correcta</h2>' +
+                '<div class="col-1-2" id="col-left">' +
                 '<button id="op1"></button>' +
-                '<button id="op2"></button>';
+                '</div>' +
+                '<div class="col-1-2" id="col-right">' +
+                '<button id="op2"></button>' +
+                '</div>';
             game.start();
             var op1 = document.getElementById('op1');
             var op2 = document.getElementById('op2');

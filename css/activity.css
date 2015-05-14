@@ -12,21 +12,62 @@
   position: absolute;
   width: 450px;
   text-align: center;
+  background-color: #f4f5f7;
+  border-radius: 30px;
 }
 
 #box-game button {
   width: 100px;
   margin: 20px;
+  color: #808080;
+  background-color: #ededeb;
+  box-shadow: 0px 5px #efe2d1;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#box-game button:hover {
+  border: none;
+  background-color: #efe2d1;
+  box-shadow: 0px 5px #efe2d1;
+  border: 2px #efe2d1 solid;
 }
 
 #box-game h1 {
+  font-size: 28px;
+  color: #828282;
+
+}
+
+.main-sentence {
   font-size: 30px;
-  text-shadow: 0 0 3px #fff;
   text-transform: uppercase;
 }
 
 .select-div {
   padding: 0 10px 5px 10px;
+}
+
+#answer-box {
+  border-top: 1px dashed #1e611e;
+}
+
+#top-box {
+  padding: 20px 5px 20px 5px;
+}
+
+#col-left {
+  border-right: 1px dashed #1e611e;
+}
+
+#col-left, #col-right {
+  padding-bottom: 10px;
+}
+
+.option-title {
+  font-weight: normal;
+  text-align: center;
+  color: #65c0ec;
 }
 
 select {
