@@ -62,6 +62,8 @@
 
 #col-left, #col-right {
   padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .option-title {
@@ -81,4 +83,32 @@ select {
 
 .colors {
 color: #B5858D;
+}
+
+.restart {
+  color: #65c0ec;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+input[type=text]#answer {
+  width: 70%;
+  margin-bottom: 15px;
+}
+
+.error-title {
+  color: #828282;
+  font-size: 15px;
+}
+
+.definition-word {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: #e7646a;
+}
+
+.definition {
+  font-size: 15px;
+  color: #828282;
 }

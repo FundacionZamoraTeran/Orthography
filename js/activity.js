@@ -94,12 +94,33 @@ define(function (require) {
             }
         }
 
+        this.showError = function() {
+            var topBox = document.getElementById('top-box');
+            var answerBox = document.getElementById('answer-box');
+
+            topBox.innerHTML =
+            '<h1>¡Has fallado...!</h1>'+
+            '<a href="#" class="restart">Vuelve a intentarlo»</a>';
+
+            answerBox.innerHTML =
+                '<h2 class="error-title">Aprende la diferencia</h2>' +
+                '<div class="col-1-2" id="col-left">' +
+                '<p class="definition-word">' + this.currentWord['op1'] + '</p>' +
+                '<p class="definition">' + this.currentWord['op1_concept'] + '</p>' +
+                '</div>' +
+                '<div class="col-1-2" id="col-right">' +
+                '<p class="definition-word">' + this.currentWord['op2'] + '</p>' +
+                '<p class="definition">' + this.currentWord['op2_concept'] + '</p>' +
+                '</div>';
+
+        }
+
         this.checkAnswer = function(answer) {
             if (answer == this.answer) {
                 this.start();
             }
             else {
-                console.log('MAL');
+                this.showError();
             }
         }
     }
@@ -140,7 +161,9 @@ define(function (require) {
 
         levelTwo.addEventListener('click', function(){
             game.level = 'level_2';
-            answerBox.innerHTML = '<input type="text" id="answer">';
+            answerBox.innerHTML =
+            '<h2 class="option-title">Escribe la palabra que falta</h2>' +
+            '<input type="text" id="answer">';
             game.start();
             var answerInput = document.getElementById('answer');
             answerInput.addEventListener('change', function() {
