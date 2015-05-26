@@ -1,6 +1,6 @@
 define(function (require) {
     return {
-        'level_1': [
+        '1': [
             {
                 'sentence': 'Tus ----- fueron embargados.',
                 'op1': 'vienes',
