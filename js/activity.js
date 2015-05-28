@@ -23,6 +23,14 @@ define(function (require) {
         this.answerBox = null;
         this.error_count = 0;
 
+        this.init = function(level, mode) {
+            this.level = level;
+            this.mode = mode;
+            document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('box-game').classList.toggle('hidden');
+            this.interface();
+        }
+
         this.start = function() {
             this.currentWord = getWords(this.level);
             this.answer = this.currentWord['answer'];
@@ -38,21 +46,11 @@ define(function (require) {
             }
         }
 
-        this.init = function(level, mode) {
-            console.log(mode);
-            this.level = level;
-            this.mode = mode;
-            document.getElementById('canvas').innerHTML =
-            '<div id="box-game" class="grid">' +
-            '  <div id="top-box">' +
-            '    <h1 id="sentence" class="main-sentence"></h1>' +
-            '  </div>' +
-            '  <div id="answer-box">' +
-            '  </div>' +
-            '</div>';
+        this.interface = function() {
+            document.getElementById('top-box').innerHTML = '<h1 id="sentence" class="main-sentence"></h1>';
             boxGame = document.getElementById('box-game');
-            boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
-            boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
+            // boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
+            // boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
             sentence = document.getElementById('sentence');
             answerBox = document.getElementById('answer-box');
             if (this.mode == '1') {
@@ -95,10 +93,7 @@ define(function (require) {
             '<h1>¡Has fallado...!</h1>'+
             '<a href="#" id="restart">Vuelve a intentarlo»</a>';
 
-            // document.getElementById('restart').addEventListener('click', function() {
-            //      this.init(this.level, this.mode);
-            //  });
-            document.getElementById('restart').addEventListener('click', this.init.bind(this, '1', '1'), false);
+            document.getElementById('restart').addEventListener('click', this.interface.bind(this), false);
 
             answerBox.innerHTML =
                 '<h2 class="error-title">Aprende la diferencia</h2>' +
@@ -115,10 +110,19 @@ define(function (require) {
 
         this.checkAnswer = function(answer) {
             if (answer == this.answer) {
+                this.error_count = 0;
                 this.start();
             }
             else {
-                this.showError();
+                this.error_count += 1;
+                if (this.error_count >= 5) {
+                    this.error_count = 0;
+                    document.getElementById('world-menu').classList.toggle('hidden');
+                    document.getElementById('box-game').classList.toggle('hidden');
+                }
+                else {
+                    this.showError();
+                }
             }
         }
     }

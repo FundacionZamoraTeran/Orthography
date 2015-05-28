@@ -10,6 +10,8 @@
 
 #box-game {
   position: absolute;
+  left: 287px;
+  top: 170px;
   width: 450px;
   text-align: center;
   background-color: #f4f5f7;
@@ -111,4 +113,8 @@ input[type=text]#answer {
 .definition {
   font-size: 15px;
   color: #828282;
+}
+
+.hidden {
+  display: none;
 }
