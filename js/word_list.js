@@ -42,7 +42,7 @@ define(function (require) {
                 'answer': 'cabo',
             },
             {
-                'sentence': 'Camila ----- el cabello de su hermanita.',
+                'sentence': 'El -----  visita su palacio cada año.',
                 'op1': 'varón',
                 'op2': 'barón',
                 'op1_concept': 'persona del sexo masculino',
@@ -110,8 +110,8 @@ define(function (require) {
                 'op1': 'votar',
                 'op2': 'botar',
                 'op1_concept': 'emitir el voto',
-                'op2_concept': 'emitir el voto',
-                'answer': 'botar',
+                'op2_concept': 'arrojar, tirar',
+                'answer': 'votar',
             },
             {
                 'sentence': 'Cuando ----- el agua, agrega el café.',
@@ -195,19 +195,19 @@ define(function (require) {
             },
             {
                 'sentence': 'A un pueblo pequeño se le llama también -----.',
-                'op1': 'bate',
-                'op2': 'vate',
-                'op1_concept': 'de batir',
-                'op2_concept': 'poeta, adivino',
-                'answer': 'bate',
-            },
-            {
-                'sentence': 'El ----- cantó a la Patria con acentos sublimes.',
                 'op1': 'villar',
                 'op2': 'billar',
                 'op1_concept': 'pueblo pequeño',
                 'op2_concept': 'juego de salón',
                 'answer': 'villar',
+            },
+            {
+                'sentence': 'El ----- cantó a la Patria con acentos sublimes.',
+                'op1': 'bate',
+                'op2': 'vate',
+                'op1_concept': 'de batir',
+                'op2_concept': 'poeta, adivino',
+                'answer': 'vate',
             },
         ],
         'level_2': [
