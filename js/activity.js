@@ -21,8 +21,25 @@ define(function (require) {
         this.boxGame = null;
         this.sentence = null;
         this.answerBox = null;
+        this.error_count = 0;
+
+        this.start = function() {
+            this.currentWord = getWords(this.level);
+            this.answer = this.currentWord['answer'];
+            sentence.innerHTML = this.currentWord['sentence'];
+
+            if (sentence.className == 'main-sentence') {
+                sentence.className = '';
+            }
+
+            if (this.mode == '1') {
+                document.getElementById('op1').innerHTML = this.currentWord['op1'];
+                document.getElementById('op2').innerHTML = this.currentWord['op2'];
+            }
+        }
 
         this.init = function(level, mode) {
+            console.log(mode);
             this.level = level;
             this.mode = mode;
             document.getElementById('canvas').innerHTML =
@@ -38,7 +55,6 @@ define(function (require) {
             boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
             sentence = document.getElementById('sentence');
             answerBox = document.getElementById('answer-box');
-
             if (this.mode == '1') {
                 answerBox.innerHTML =
                     '<h2 class="option-title">Selecciona la palabra correcta</h2>' +
@@ -71,28 +87,18 @@ define(function (require) {
             this.start();
         }
 
-        this.start = function() {
-            this.currentWord = getWords(this.level);
-            this.answer = this.currentWord['answer'];
-            sentence.innerHTML = this.currentWord['sentence'];
-
-            if (sentence.className == 'main-sentence') {
-                sentence.className = '';
-            }
-
-            if (this.mode == '1') {
-                document.getElementById('op1').innerHTML = this.currentWord['op1'];
-                document.getElementById('op2').innerHTML = this.currentWord['op2'];
-            }
-        }
-
         this.showError = function() {
             var topBox = document.getElementById('top-box');
             var answerBox = document.getElementById('answer-box');
 
             topBox.innerHTML =
             '<h1>¡Has fallado...!</h1>'+
-            '<a href="#" class="restart">Vuelve a intentarlo»</a>';
+            '<a href="#" id="restart">Vuelve a intentarlo»</a>';
+
+            // document.getElementById('restart').addEventListener('click', function() {
+            //      this.init(this.level, this.mode);
+            //  });
+            document.getElementById('restart').addEventListener('click', this.init.bind(this, '1', '1'), false);
 
             answerBox.innerHTML =
                 '<h2 class="error-title">Aprende la diferencia</h2>' +
