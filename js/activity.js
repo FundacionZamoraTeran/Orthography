@@ -76,7 +76,7 @@ define(function (require) {
 
             else if (this.mode == '2') {
                 answerBox.innerHTML =
-                    '<h2 class="option-title">Escribe la palabra que falta</h2>' +
+                    '<h2 class="option-title">Escribe la letra que falta</h2>' +
                     '<input type="text" id="answer">';
                 var answerInput = document.getElementById('answer');
                 answerInput.addEventListener('change', function() {
@@ -127,7 +127,7 @@ define(function (require) {
         }
 
         this.checkAnswer = function(answer) {
-            if (answer == this.answer) {
+            if (answer.toLowerCase() == this.answer.toLowerCase()) {
                 this.error_count = 0;
                 this.point_count += 1;
                 this.setBar();

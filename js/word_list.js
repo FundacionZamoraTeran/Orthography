@@ -335,6 +335,7 @@ define(function (require) {
                 'sentence': 'ambiguo',
                 'answer': 'b',
                 'concept': 'Se escribe siempre B: Después de m.',
+            },
             {
                 'sentence': 'am_ulancia',
                 'answer': 'b',
