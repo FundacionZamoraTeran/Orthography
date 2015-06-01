@@ -2,6 +2,737 @@ define(function (require) {
     return {
         '1': [
             {
+                'sentence': '_lanco',
+                'answer': 'b',
+                'concept': 'Se escribe con B:Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'li_ro',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': '_rillante',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'hom_re',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'la_rador',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': '_lusa',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'esta_lo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'o_licuo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'ro_le',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': '_ruñir',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'ha_lar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'ca_le',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'som_ra',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'cu_rir',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'ha_lista',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'repú_lica',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'pu_licista',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'dia_lura',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'nie_la',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': '_loque',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'ama_le',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'sa_le',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'pue_lo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'ta_la',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_landar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_dominal',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_surdo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_sorber',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_solver',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_dicar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': '_loquear',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_rir',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_razo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'o_jeto',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'o_tener',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'o_servar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'o_vio',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'o_stáculo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'so_re',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'co_rar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'a_rigo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'su_terráneo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'su_vención',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'sú_dito',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': 'su_rayar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las palabras en las que b va seguida de cualquier consonante.',
+            },
+            {
+                'sentence': '_icéfalo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_imestral',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_ilítera',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_iznieto',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_imensual',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_idente',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_icameral',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_iforme',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_ifronte',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_isectriz',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_isabuelo',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_imotor',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_isemanal',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_isílaba',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_ilingüe',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_ilabial',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_ipolar',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_icolor',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_isagra',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': '_isexual',
+                'answer': 'b',
+                'concept': 'Se escribe con B: Las partículas bi, bis, biz (que significan dos o dos veces).',
+            },
+            {
+                'sentence': 'ám_ar',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'ambiguo',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            {
+                'sentence': 'am_ulancia',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'cum_re',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'com_inación',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'em_estir',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'em_udo',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'cam_oyano',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'cam_io',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'am_icionar',
+                'answer': 'b',
+                'concept': 'Se escribe siempre B: Después de m.',
+            },
+            {
+                'sentence': 'ad_ertencia',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'ad_ersidad',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'ad_iento',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'ad_enedizo',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'sub_enir',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'sub_ersión',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'sub_encionar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'sub_ertir',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_ejecer',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_iar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_anecer',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_asión',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_ierno',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_entar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_eniencia',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_ulsión',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_encer',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_oltorio',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_idia',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_estigación',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_alidez',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_alencia',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_idado',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'sub_ención',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'sub_ariedad',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'ad_ertir',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'ad_erbio',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'ad_ersario',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_ainar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'en_ilecer',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_ariable',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'in_encible',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_ersación',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'con_ocar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de las consonantes b, d, y n.',
+            },
+            {
+                'sentence': 'pol_o',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'pol_orín',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'vol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'desenvol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'envol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'revol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'devol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'ol_ido',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'ol_idar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'inol_idable',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'ol_idadizo',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'ol_idado',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'disol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'resol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'sol_entar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'disol_ente',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'sol_encia',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'absol_er',
+                'answer': 'v',
+                'concept': 'Se escribe V: Después de ol.',
+            },
+            {
+                'sentence': 'e_acuación',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_angelista',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_aporable',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_asión',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_entual',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_idencia',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_itable',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_ocación',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'e_olucionar',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'para_iana',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'para_a',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pre_ención',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pre_enir',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pre_entiva',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pre_iamente',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pre_aricador',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pri_ilegio',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pri_ación',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            },
+            {
+                'sentence': 'pro_ocación',
+                'answer': 'v',
+                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+            }
+        ],
+        '1000': [
+            {
                 'sentence': 'Tus ----- fueron embargados.',
                 'op1': 'vienes',
                 'op2': 'bienes',
@@ -66,7 +797,7 @@ define(function (require) {
                 'answer': 'bacía',
             },
             {
-                'sentence': 'No quiero que ----el corderito; da pesar oírlo.',
+                'sentence': 'No quiero que ---- el corderito; da pesar oírlo.',
                 'op1': 'vale',
                 'op2': 'bale',
                 'op1_concept': 'de valer, documento comercial',
@@ -210,17 +941,6 @@ define(function (require) {
                 'answer': 'vate',
             },
         ],
-        'level_2': [
-            {
-                'sentence': 'La ___ es bonita',
-                'answer': 'casa',
-                'concept': 'Sustantivo',
-            },
-            {
-                'sentence': 'Ya le puse el ______ a la caña de pescar.',
-                'concept': 'Comida o cosas que simulan serlo',
-                'answer': 'cebo',
-            },
-        ]
+
     };
 });

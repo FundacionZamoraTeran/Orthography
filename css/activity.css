@@ -115,6 +115,12 @@ input[type=text]#answer {
   color: #828282;
 }
 
+.rule {
+ font-size: 15px;
+ text-align: center;
+ color: #828282;
+}
+
 .hidden {
   display: none;
 }

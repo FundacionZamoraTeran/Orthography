@@ -97,16 +97,24 @@ define(function (require) {
 
             document.getElementById('restart').addEventListener('click', this.interface.bind(this), false);
 
-            answerBox.innerHTML =
-                '<h2 class="error-title">Aprende la diferencia</h2>' +
-                '<div class="col-1-2" id="col-left">' +
-                '<p class="definition-word">' + this.currentWord['op1'] + '</p>' +
-                '<p class="definition">' + this.currentWord['op1_concept'] + '</p>' +
-                '</div>' +
-                '<div class="col-1-2" id="col-right">' +
-                '<p class="definition-word">' + this.currentWord['op2'] + '</p>' +
-                '<p class="definition">' + this.currentWord['op2_concept'] + '</p>' +
-                '</div>';
+            if (this.mode == '1') {
+                answerBox.innerHTML =
+                    '<h2 class="error-title">Aprende la diferencia</h2>' +
+                    '<div class="col-1-2" id="col-left">' +
+                    '<p class="definition-word">' + this.currentWord['op1'] + '</p>' +
+                    '<p class="definition">' + this.currentWord['op1_concept'] + '</p>' +
+                    '</div>' +
+                    '<div class="col-1-2" id="col-right">' +
+                    '<p class="definition-word">' + this.currentWord['op2'] + '</p>' +
+                    '<p class="definition">' + this.currentWord['op2_concept'] + '</p>' +
+                    '</div>';
+            }
+            else if (this.mode == '2') {
+                answerBox.innerHTML =
+                '<h2 class="error-title">Aprende la regla</h2>' +
+                '<p class="rule">' + this.currentWord['concept'] + '</p>';
+
+            }
 
         }
 
@@ -152,7 +160,7 @@ define(function (require) {
         game = new Game();
 
         document.getElementById('1').addEventListener('click', function() {
-            game.init('1', '1');
+            game.init('1', '2');
         });
         document.getElementById('2').addEventListener('click', function() {
             game.init('1', '1');
