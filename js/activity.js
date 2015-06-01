@@ -22,12 +22,14 @@ define(function (require) {
         this.sentence = null;
         this.answerBox = null;
         this.error_count = 0;
+        this.point_count = 0;
 
         this.init = function(level, mode) {
             this.level = level;
             this.mode = mode;
             document.getElementById('world-menu').classList.toggle('hidden');
             document.getElementById('box-game').classList.toggle('hidden');
+            document.getElementById('point-bar').classList.toggle('hidden');
             this.interface();
         }
 
@@ -108,17 +110,34 @@ define(function (require) {
 
         }
 
+        this.setBar = function() {
+            var bar = document.getElementById('point-bar');
+            bar.innerHTML = '';
+            for (var i = this.point_count; i > 0; i--) {
+                bar.innerHTML += '<span class="star"></span>';
+            }
+        }
+
         this.checkAnswer = function(answer) {
             if (answer == this.answer) {
                 this.error_count = 0;
+                this.point_count += 1;
+                this.setBar();
                 this.start();
             }
             else {
                 this.error_count += 1;
+                if (this.point_count > 0) {
+                    this.point_count = this.point_count - 1;
+                    this.setBar();
+
+                }
+
                 if (this.error_count >= 5) {
                     this.error_count = 0;
                     document.getElementById('world-menu').classList.toggle('hidden');
                     document.getElementById('box-game').classList.toggle('hidden');
+                    document.getElementById('point-bar').classList.toggle('hidden');
                 }
                 else {
                     this.showError();

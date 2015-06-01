@@ -156,10 +156,10 @@ define(function (require) {
             {
                 'sentence': 'Anielka no ----- en sus respuestas.',
                 'op1': 'bacilo',
-                'op2': 'vacilo',
+                'op2': 'vaciló',
                 'op1_concept': 'bacteria',
                 'op2_concept': 'de vacilar, titubear',
-                'answer': 'vacilo',
+                'answer': 'vaciló',
             },
             {
                 'sentence': 'Por ser el ------ del rey, muchos le tenían envidia.',

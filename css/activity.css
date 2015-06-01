@@ -118,3 +118,14 @@ input[type=text]#answer {
 .hidden {
   display: none;
 }
+
+#point-bar {
+  margin: 10px;
+}
+
+.star {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url(../images/star.png) no-repeat 0 0;
+}
