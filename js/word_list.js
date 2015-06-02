@@ -732,6 +732,753 @@ define(function (require) {
                 'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
             }
         ],
+        '2': [
+            {
+                'sentence': 'ganan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'sustan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'ran_io',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'cansan_io',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'abstinen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'adverten_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'esen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'silen_io',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'renun_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'anun_io',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'corcondan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'exuberan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'constan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'importan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'distan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'perseveran_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'extravagan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'vigilan_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'turbulen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'violen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'opulen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'decaden_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'agen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'ascenden_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'reinciden_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'coheren_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'impacien_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'transparen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'neglicen_ia',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las palabras que terminan en ancia, ancio, encia, encio, uncia, uncio.'
+            },
+            {
+                'sentence': 'amor_ito',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'corazon_ito',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'dolor_ito',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'sillon_ito',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'dulce_ito',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'aire_illo',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'olor_illo',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'bosque_illo',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'gorrion_illo',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'hervor_illo',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'frase_ita',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'nube_ita',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'mujer_ita',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'madre_ita',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'flore_ita',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'ave_illa',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'cancion_illa',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'genten_illa',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'liebre_illa',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'nave_illa',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'hombre_ico',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'golpe_ico',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'puente_ico',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'fuente_ica',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'tarde_ica',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'gente_ica',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Las terminaciones de los diminutivos cito, ecito, cico, ecico, cillo, ecillo y sus femeninos correspondientes.'
+            },
+            {
+                'sentence': 'acari_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'presen_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'ajusti_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'agra_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'codi_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'distan_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'benefi_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'desahu_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'despre_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'anun_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'aso_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'nego_iar',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'agrade_er',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'co_er',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'conven_er',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'pade_er',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'espar_ir',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'dedu_ir',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'bende_ir',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'malde_ir',
+                'answer': 'c',
+                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+            },
+            {
+                'sentence': 'sabro_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'belico_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'joco_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'tortuo_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'acuo_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'gaseo_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'curio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'hacendo_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'laborio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'voluntario_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'afano_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'horroro_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'ímpetuo_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'pavoro_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'vaporo_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'vigoro_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'ambicio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'sedicio_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'virtuo_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'religio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'vanido_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'quejumbro_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'ansio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'malicio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'perezo_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'honro_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'sedo_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'envidio_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los adjetivos terminados en oso y osa.'
+            },
+            {
+                'sentence': 'confe_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'exten_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'conci_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'convul_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'difu_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'indeci_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'diver_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'perver_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'preci_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'reclu_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'sumi_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'impre_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'agre_ión',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los sustantivos que acaban en sión.'
+            },
+            {
+                'sentence': 'anonadar_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'accidentar_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'gozar_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'mudar_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'odiar_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'salvar_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'adormecer_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'atrever_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'deshacer_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'encoger_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'adherir_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Los verbos que terminan en se.'
+            },
+            {
+                'sentence': 'vi_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'arti_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'li_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'periodi_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'flori_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'heroí_mo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'magneti_mo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'cristiani_mo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'catesi_mo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'egoí_mo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ismo e ista.'
+            },
+            {
+                'sentence': 'ge_to',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'mole_to',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'repue_to',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'dispue_to',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'hone_to',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'fie_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'sie_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'encue_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'orque_ta',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'defen_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'pren_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+            {
+                'sentence': 'recompen_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones esta y esto.'
+            },
+        ],
         '1000': [
             {
                 'sentence': 'Tus ----- fueron embargados.',

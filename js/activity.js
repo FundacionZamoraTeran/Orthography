@@ -163,7 +163,7 @@ define(function (require) {
             game.init('1', '2');
         });
         document.getElementById('2').addEventListener('click', function() {
-            game.init('1', '1');
+            game.init('2', '2');
         });
         document.getElementById('3').addEventListener('click', function() {
             game.init('1', '1');
