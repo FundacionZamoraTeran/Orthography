@@ -28,6 +28,16 @@
   font-weight: bold;
 }
 
+#next {
+  min-width: 100px;
+  margin: 20px;
+  color: #808080;
+  background-color: #ededeb;
+  box-shadow: 0px 5px #efe2d1;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
 #box-game button:hover {
   border: none;
   background-color: #efe2d1;
@@ -141,4 +151,11 @@ input[type=text]#answer {
   display: block;
   width: 80px;
   height: 50px;
+}
+
+.medal {
+  display: inline-block;
+  width: 48px;
+  height: 48px;
+  background: url(../images/medal.png) no-repeat 0 0;
 }

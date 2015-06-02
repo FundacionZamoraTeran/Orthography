@@ -23,10 +23,19 @@ define(function (require) {
         this.answerBox = null;
         this.error_count = 0;
         this.point_count = 0;
+        this.win_level =  0;
 
         this.init = function(level, mode) {
             this.level = level;
             this.mode = mode;
+            this.point_count = 0;
+            document.getElementById('point-bar').innerHTML = '';
+            if (this.mode == '1') {
+                this.win_level = 5;
+            }
+            else if (this.mode == '2') {
+                this.win_level = 3;
+            }
             document.getElementById('world-menu').classList.toggle('hidden');
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
@@ -130,8 +139,27 @@ define(function (require) {
             if (answer.toLowerCase() == this.answer.toLowerCase()) {
                 this.error_count = 0;
                 this.point_count += 1;
-                this.setBar();
-                this.start();
+                if (this.point_count < this.win_level) {
+                    this.setBar();
+                    this.start();
+                }
+                else {
+                    var topBox = document.getElementById('top-box');
+                    var answerBox = document.getElementById('answer-box');
+                    topBox.innerHTML =
+                    '<h1>¡Felicidades, has completado este mundo!</h1>';
+                    answerBox.innerHTML =
+                    '<p><strong>Has ganado una medalla</strong></p>' +
+                    '<p><span class="medal"></span></p>' +
+                    '<p><button id="next">Continuar</button></p>';
+
+                    document.getElementById('next').addEventListener('click', function() {
+                        document.getElementById('world-menu').classList.toggle('hidden');
+                        document.getElementById('box-game').classList.toggle('hidden');
+                        document.getElementById('point-bar').classList.toggle('hidden');
+                    })
+
+                }
             }
             else {
                 this.error_count += 1;
@@ -166,7 +194,7 @@ define(function (require) {
             game.init('2', '2');
         });
         document.getElementById('3').addEventListener('click', function() {
-            game.init('1', '1');
+            game.init('3', '1');
         });
         document.getElementById('4').addEventListener('click', function() {
             // game.init('1', '1');

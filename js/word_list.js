@@ -1479,7 +1479,7 @@ define(function (require) {
                 'concept': 'Se escribe con S: Las terminaciones esta y esto.'
             },
         ],
-        '1000': [
+        '3': [
             {
                 'sentence': 'Tus ----- fueron embargados.',
                 'op1': 'vienes',
