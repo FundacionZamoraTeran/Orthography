@@ -1481,6 +1481,753 @@ define(function (require) {
         ],
         '3': [
             {
+                'sentence': '_idra',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idratar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idroavión',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idrófilo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idrofobia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idrógeno',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idrografía',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idropesía',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_idroterapia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipérbaton',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipérbole',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_iperdulía',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipermetropía',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipertensión',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipertrofia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ípico',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipnotismo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipócrita',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipódromo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipogastrio',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipogeos',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipopótamo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipóstila',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipotecario',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipótesis',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipsómetro',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_iperestésica',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_ipocampo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_iperemia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Todas las palabras que comienzan por hidr o hidro, hip o hipo.'
+            },
+            {
+                'sentence': '_omofonía',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eteroplastia',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_exaedro',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eptaedro',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_exasílabo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ectógrafo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ematuria',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eteroscio',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_omogéneo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eptacordio',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_exápodo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eptágono',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_emorragia',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_igroscopicidad',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eterodoxo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_exagonal',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_omónimo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eptarquía',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eterogéneo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ectolitro',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_emoglobina',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_igrometría',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eterónomo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_igroscopio',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ectárea',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ematología',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_igrométrico',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ectómetro',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_omógrafo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_exapétalo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_eptasílabo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_omólogo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_ectogramo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_emofilia',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_igroscópico',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por homo, hetero, hexa, hepta, hect o hecto, hem e higr.'
+            },
+            {
+                'sentence': '_umorada',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umorismo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umorístico',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umanidad',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umanismo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umanitarismo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umazo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umareda',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umear',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umedecer',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umedecido',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umedad',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umillante',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umillación',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umildad',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umor',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umano',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_úmedo',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_umilde',
+                'answer': 'h',
+                'concept': 'Se esribe con H: Las palabras que comienzan por hum.'
+            },
+            {
+                'sentence': '_ospitalizar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ospitalario',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ospiciano',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ospedaje',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ospedar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_erbáceo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_erborizar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_erbario',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_erbolario',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_erbívoro',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_isterismo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istólogo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istrionismo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istoriador',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istórico',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostelero',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostiario',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostilidad',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostilizar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostigador',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_orrendo',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_orrible',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_orripilante',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_orroroso',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_orrorizar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_olgura',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_olgazán',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_olganza',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_olgado',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_olgazanear',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ospital',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istología',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostería',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_isteria',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istoria',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostil',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ospicio',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_istrión',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': '_ostigar',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por hosp, herb, hist, host, horr y holg.'
+            },
+            {
+                'sentence': 'mo_arra',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'enmo_ecer',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'mo_ín',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'mo_o',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'mo_oso',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_areño',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_arrón',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_erido',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_erir',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_onado',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_ón',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_onadar',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_ora',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_orí',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': 'za_úrda',
+                'answer': 'h',
+                'concept': 'Se escribe H: Después de mo y za.'
+            },
+            {
+                'sentence': '_ermafrodita',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ermano',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ermenéutica',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ermógenes',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ermoso',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ermes',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_emético',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_erminia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ernia',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+            {
+                'sentence': '_ernán',
+                'answer': 'h',
+                'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
+            },
+        ],
+        'x': [
+            {
                 'sentence': 'Tus ----- fueron embargados.',
                 'op1': 'vienes',
                 'op2': 'bienes',
