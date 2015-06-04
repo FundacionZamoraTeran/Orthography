@@ -194,10 +194,10 @@ define(function (require) {
             game.init('2', '2');
         });
         document.getElementById('3').addEventListener('click', function() {
-            game.init('3', '1');
+            game.init('3', '2');
         });
         document.getElementById('4').addEventListener('click', function() {
-            // game.init('1', '1');
+            game.init('4', '2');
         });
         document.getElementById('5').addEventListener('click', function() {
             // game.init('1', '1');

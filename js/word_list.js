@@ -2226,6 +2226,748 @@ define(function (require) {
                 'concept': 'Se escribe con H: Las palabras que comienzan por herm o hern.'
             },
         ],
+        '4': [
+            {
+                'sentence': 'adornadí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'sabrosí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'honradí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'valiosí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'riquí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'influyentí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'elegantí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'dulcí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'facilí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'velocí_ima',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'calentí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'valentí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'terní_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'noví_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'grosí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'fortí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'ferventí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'destrí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'certí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'ardentí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'amabilí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'nobilí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'agradabilí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'sensibilí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'solubilí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'efabilí_imo',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones ísimo e ísima.'
+            },
+            {
+                'sentence': 'atenien_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'parisien_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'canadien_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'londinen_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'matriten_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'nicaragüen_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'coahuilen_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'jaliscien_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'hidalguen_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'costarricen_e',
+                'answer': 's',
+                'concept': 'Se escribe con S: Cuando un gentilicio termina en ense.'
+            },
+            {
+                'sentence': 'ascen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'cen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'consen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'descen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'incien_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'despen_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'ofen_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'den_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'exten_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'indefen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'inmen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'propen_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'ten_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones enso y ensa.'
+            },
+            {
+                'sentence': 'frambue_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'compre_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'dehe_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'empre_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'pre_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'absce_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'dece_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'exce_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'expre_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'hue_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'absci_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'divi_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'pitoni_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'poeti_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'profeti_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'avi_a',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'compromi_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'permi_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'narci_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'gui_o',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las palabras terminadas en esa, eso, isa, iso.'
+            },
+            {
+                'sentence': 'análi_is',
+                'answer': 's',
+                'concept': 'Se escribe con S: Las terminaciones en sis.'
+            },
+            {
+                'sentence': 'cri_is',
+                'answer': 's',
+                'concept': ''
+            },
+            {
+                'sentence': 'diére_is',
+                'answer': 's',
+                'concept': ''
+            },
+            {
+                'sentence': 'do_is',
+                'answer': 's',
+                'concept': ''
+            },
+            {
+                'sentence': 'énfa_is',
+                'answer': 's',
+                'concept': ''
+            },
+            {
+                'sentence': 'hipóte_is',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'perspica_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'efica_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'auda_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'contuma_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'pertina_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'suspica_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'fala_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'capa_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'tena_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'saga_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'vera_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'rapa_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'vora_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'fuga_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'atro_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'fero_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'preco_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'velo_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'agra_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'antifa_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'capata_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'disfra_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'fa_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'ha_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'lenguara_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'montara_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'pa_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'sola_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'torca_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'arro_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'co_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'ho_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'vo_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'atro_',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
+            },
+            {
+                'sentence': 'confian_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'adivinan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'alaban_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'acechan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'asechan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'fian_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'mudan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'ordenan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'tardan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'vengan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'bienaventuran_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'dan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'lan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'bonan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'lontanan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'maestran_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'chan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'mezcolan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'pitan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'pan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'andan_a',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras terminadas en anza.'
+            },
+            {
+                'sentence': 'porta_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'almiranta_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'compadra_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'infanta_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'novia_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'halla_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'harta_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'padrina_go',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: La terminación azgo.'
+            },
+            {
+                'sentence': 'garrota_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'bala_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'hacha_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'pelota_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'zapata_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'coda_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'cañona_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'botella_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'sabla_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+            {
+                'sentence': 'sartena_o',
+                'answer': 'z',
+                'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
+            },
+        ],
         'x': [
             {
                 'sentence': 'Tus ----- fueron embargados.',
