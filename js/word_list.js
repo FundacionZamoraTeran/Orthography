@@ -2968,6 +2968,754 @@ define(function (require) {
                 'concept': 'Se escribe con Z: Las palabras que terminan en azo, aza.'
             },
         ],
+        '5': [
+            {
+                'sentence': 'a_plio',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_pás',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'te_pestad',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'relá_pago',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ro_per',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_bajada',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'se_brar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'bo_bardeo',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_buste',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_bición',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'colu_na',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_nesia',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'gi_nasia',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'sole_ne',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'inde_nizar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'te_plo',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_pra',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_po',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ho_bre',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'alu_no',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'hi_no',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'calu_nia',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_bate',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_buste',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_bición',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'so_bra',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'so_brilla',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'tra_pa',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_bio',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_putar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'o_nipotente',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_nistía',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'bo_ba',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_putadora',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'có_puto',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_pana',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'té_pera',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'si_pático',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_pesino',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_pamento',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'bo_bón',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ba_bú',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'bo_bero',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'tie_po',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'so_brero',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'te_blor',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'o_bligo',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_bos',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_peón',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_pacar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_petir',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'a_bulancia',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_pañero',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_pezar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ca_par',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ti_bre',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ru_bo',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'cu_bia',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_poner',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_padre',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_padecer',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_pasivo',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_petición',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_plazar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_paquetar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_badurnar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_botellar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'e_bocadura',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'i_permeable',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'i_posible',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'i_previsto',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'i_berbe',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'i_borrable',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'i_provisar',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'ó_nibus',
+                'answer': 'm',
+                'concept': 'Se escribe con M: Delante de p, b y n.'
+            },
+            {
+                'sentence': 'co_fuso',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_fermo',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_fección',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_friar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_fado',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'é_fasis',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_fante',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_falible',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_ferencia',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_fesar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_menso',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_mortal',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_memorar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_mover',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_mascarar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_migrar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_mutar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_moral',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_moral',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_material',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_vío',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'tra_vía',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_vidia',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_versar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_vadir',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_válido',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_vento',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_veniencia',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_vilecer',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_vocar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_ferior',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_forme',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_vertir',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_vocar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_foque',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_fame',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_vitar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'i_vertir',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_fidencia',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_flicto',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_vencer',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'e_vase',
+                'answer': 'n',
+                'concept': 'Se escribe N: Antes de f, m y v.'
+            },
+            {
+                'sentence': 'co_natural',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'co_notar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'co_nubio',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'co_numerar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'e_neciarse',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'e_negrecer',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'i_nato',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'i_navegable',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'i_nominable',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'i_novar',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'i_numerable',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'e_noblecer',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'e_nudecer',
+                'answer': 'n',
+                'concept': 'Se escribe N: Las palabras con doble n, precisamente las palabras que comienzan por n y llevan algún prefijo terminado en n (con, en, in).',
+            },
+            {
+                'sentence': 'bro_ce',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'pre_sa',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'co_trato',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'de_tro',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'ca_sado',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'te_tetieso',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'co_ductor',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'da_zar',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'co_servar',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'ca_celar',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'co_secuencia',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'pa_da',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'asu_to',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'i_genuo',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'co_trol',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'ca_tar',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'te_tación',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'cá_dido',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+            {
+                'sentence': 'bri_co',
+                'answer': 'n',
+                'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
+            },
+
+        ],
         'x': [
             {
                 'sentence': 'Tus ----- fueron embargados.',

@@ -24,6 +24,7 @@ define(function (require) {
         this.error_count = 0;
         this.point_count = 0;
         this.win_level =  0;
+        this.character = 0;
 
         this.init = function(level, mode) {
             this.level = level;
@@ -39,6 +40,12 @@ define(function (require) {
             document.getElementById('world-menu').classList.toggle('hidden');
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
+            if (this.character == 1) {
+                document.getElementById('walking-character').className = 'boy-1';
+            }
+            else {
+                document.getElementById('walking-character').className = 'girl-1';
+            }
             this.interface();
         }
 
@@ -157,6 +164,7 @@ define(function (require) {
                         document.getElementById('world-menu').classList.toggle('hidden');
                         document.getElementById('box-game').classList.toggle('hidden');
                         document.getElementById('point-bar').classList.toggle('hidden');
+                        document.getElementById('walking-character').className = 'hidden';
                     })
 
                 }
@@ -186,6 +194,17 @@ define(function (require) {
         activity.setup();
 
         game = new Game();
+
+        document.getElementById('boy').addEventListener('click', function() {
+            document.getElementById('character').classList.toggle('hidden');
+            document.getElementById('world-menu').classList.toggle('hidden');
+            game.character = 1;
+        });
+        document.getElementById('girl').addEventListener('click', function() {
+            document.getElementById('character').classList.toggle('hidden');
+            document.getElementById('world-menu').classList.toggle('hidden');
+            game.character = 2;
+        });
 
         document.getElementById('1').addEventListener('click', function() {
             game.init('1', '2');

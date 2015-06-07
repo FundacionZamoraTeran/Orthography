@@ -18,6 +18,17 @@
   border-radius: 30px;
 }
 
+#character {
+  position: absolute;
+  left: 287px;
+  top: 170px;
+  width: 450px;
+}
+
+#character h1 {
+  text-align: center;
+}
+
 #box-game button {
   min-width: 100px;
   margin: 20px;
@@ -158,4 +169,36 @@ input[type=text]#answer {
   width: 48px;
   height: 48px;
   background: url(../images/medal.png) no-repeat 0 0;
+}
+
+.characters {
+  display: inline-block;
+  width: 82px;
+  height: 150px;
+}
+
+#boy {
+  background: url(../images/boy.png);
+}
+
+#girl {
+  background: url(../images/girl.png);
+  float: right;
+}
+
+#walking-character {
+  display: inline-block;
+  width: 82px;
+  height: 150px;
+  position: absolute;
+  bottom: 40px;
+  left: 50px;
+}
+
+.girl-1 {
+  background: url(../images/girl-1.png);
+}
+
+.boy-1 {
+  background: url(../images/boy-1.png);
 }
