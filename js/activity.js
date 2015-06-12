@@ -35,7 +35,7 @@ define(function (require) {
                 this.win_level = 5;
             }
             else if (this.mode == '2') {
-                this.win_level = 3;
+                this.win_level = 5;
             }
             document.getElementById('world-menu').classList.toggle('hidden');
             document.getElementById('box-game').classList.toggle('hidden');
@@ -127,7 +127,7 @@ define(function (require) {
             }
             else if (this.mode == '2') {
                 answerBox.innerHTML =
-                '<h2 class="error-title">Aprende la regla</h2>' +
+                '<h2 class="error-title">Aprende la regla:</h2>' +
                 '<p class="rule">' + this.currentWord['concept'] + '</p>';
 
             }
@@ -219,7 +219,7 @@ define(function (require) {
             game.init('4', '2');
         });
         document.getElementById('5').addEventListener('click', function() {
-            // game.init('1', '1');
+            game.init('10', '1');
         });
         document.getElementById('6').addEventListener('click', function() {
             // game.init('1', '1');

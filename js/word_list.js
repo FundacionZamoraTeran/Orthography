@@ -332,7 +332,7 @@ define(function (require) {
                 'concept': 'Se escribe siempre B: Después de m.',
             },
             {
-                'sentence': 'ambiguo',
+                'sentence': 'am_iguo',
                 'answer': 'b',
                 'concept': 'Se escribe siempre B: Después de m.',
             },
@@ -682,54 +682,54 @@ define(function (require) {
                 'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
             },
             {
-                'sentence': 'para_iana',
+                'sentence': 'pra_iana',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
-                'sentence': 'para_a',
+                'sentence': 'pra_a',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pre_ención',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pre_enir',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pre_entiva',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pre_iamente',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pre_aricador',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pri_ilegio',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pri_ación',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             },
             {
                 'sentence': 'pro_ocación',
                 'answer': 'v',
-                'concept': 'Se escribe V: Los comienzos de palabra en eva, eve, evi y evo.',
+                'concept': 'Se escribe V: Después de las sílabas pra, pre, pri',
             }
         ],
         '2': [
@@ -1071,42 +1071,42 @@ define(function (require) {
             {
                 'sentence': 'agrade_er',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'co_er',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'conven_er',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'pade_er',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'espar_ir',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'dedu_ir',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'bende_ir',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'malde_ir',
                 'answer': 'c',
-                'concept': 'Se escribe con C: Los verbos que terminan en ciar, así como las palabras de las cuales proceden y las que se derivan de ellas.'
+                'concept': 'Se escribe con C: que terminan en cer y cir.'
             },
             {
                 'sentence': 'sabro_a',
@@ -3714,9 +3714,750 @@ define(function (require) {
                 'answer': 'n',
                 'concept': 'Se escribe con N: Ante cualquier consonante que no sea p o b.'
             },
-
         ],
-        'x': [
+        '6': [
+            {
+                'sentence': '_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'a_encia',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'deter_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'contin_ente',
+                'answer': '',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'abori_en',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'in_enuo',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_énero',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'ori_en',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'a_enda',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'in_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 're_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'in_eniar',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'indul_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'in_eniero',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'mar_en',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'ur_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'vi_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'inteli_encia',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'indi_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'vir_en',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'indí_ena',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_erente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_eneroso',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_endarme',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_enerosidad',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_enealogía',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_énesis',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_enízaro',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_entilicio',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_enuflexión',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'inteli_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'oxí_eno',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'exi_encia',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'le_endario',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'tan_ente',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'vi_encia',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': 'ima_en',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo gen.'
+            },
+            {
+                'sentence': '_esto',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': '_esta',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': '_esticular',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': '_estante',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': '_estión',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': '_estoría',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': 'in_estión',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': 'di_estión',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': 'con_estión',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que contienen el grupo ges.'
+            },
+            {
+                'sentence': '_eodesia',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eocéntrico',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eología',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eografía',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': 'apo_eo',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eófago',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': 'peri_eo',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eometría',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': 'hipo_eo',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eógrafo',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eopolítico',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eofagia',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eofísica',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_eórgica',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Todas las palabras que comienzan o terminan por geo.'
+            },
+            {
+                'sentence': '_esticular',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_estión',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_esto',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_estor',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_esticulador',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_estación',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_esticulación',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_esta',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_estionar',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': '_estatorio',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las palabras que comienzan por gest.'
+            },
+            {
+                'sentence': 'conver_er',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las terminaciones ger y gir.'
+            },
+            {
+                'sentence': 'prote_er',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las terminaciones ger y gir.'
+            },
+            {
+                'sentence': 'sur_ir',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las terminaciones ger y gir.'
+            },
+            {
+                'sentence': 'exi_ir',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las terminaciones ger y gir.'
+            },
+            {
+                'sentence': 'ele_ir',
+                'answer': 'g',
+                'concept': 'Se escribe con G: Las terminaciones ger y gir.'
+            },
+            {
+                'sentence': 'can_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'o_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'gran_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'gor_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'lison_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'flo_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'force_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'burbu_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'calle_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'calle_ear',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'despo_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'ba_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'espon_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'fa_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'reba_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'agasa_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'arro_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'congo_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'venta_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'flo_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'de_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'empu_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'aventa_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'dibu_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'mo_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Los verbos terminados en jear y en jar.'
+            },
+            {
+                'sentence': 'alha_ar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'relo_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'abe_era',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'pelle_ería',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'gran_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'conse_era',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'mensa_ería',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'tina_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'via_era',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'via_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 're_ería',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'cerra_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'extran_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'ca_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'mensa_ero',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras terminadas en jero, jera y jería.'
+            },
+            {
+                'sentence': 'ca_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_arabe',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_abón',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'congo_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'dibu_o',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'pa_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_oven',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'co_o',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'jo_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_orobado',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'ro_o',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_ocoso',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_udía',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_uez',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_uguete',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_urídico',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'con_unto',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_uglar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_ugo',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_ungla',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'ore_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_ueves',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'cone_o',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'ove_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_ugar',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 're_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'lu_o',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'te_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'nava_a',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_aco',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': 'cangre_o',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_ocote',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+            {
+                'sentence': '_acal',
+                'answer': 'j',
+                'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
+            },
+        ]
+        '10': [
             {
                 'sentence': 'Tus ----- fueron embargados.',
                 'op1': 'vienes',
