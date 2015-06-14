@@ -4456,7 +4456,7 @@ define(function (require) {
                 'answer': 'j',
                 'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
             },
-        ]
+        ],
         '10': [
             {
                 'sentence': 'Tus ----- fueron embargados.',

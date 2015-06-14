@@ -95,7 +95,7 @@ define(function (require) {
                     '<h2 class="option-title">Escribe la letra que falta</h2>' +
                     '<input type="text" id="answer">';
                 var answerInput = document.getElementById('answer');
-                answerInput.addEventListener('change', function() {
+                answerInput.addEventListener('input', function() {
                     game.checkAnswer(this.value);
                     this.value = '';
                 });
