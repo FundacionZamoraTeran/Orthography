@@ -2,6 +2,7 @@ define(function (require) {
     var activity = require("sugar-web/activity/activity");
     var palette = require("sugar-web/graphics/palette");
     var icon = require("sugar-web/graphics/icon");
+    var dictstore = require("sugar-web/dictstore")
     var l10n = require("webL10n");
 
     var words = null;
@@ -26,17 +27,28 @@ define(function (require) {
         this.win_level =  0;
         this.character = 0;
 
+        if (!localStorage['orthography_data']) {
+            localStorage['orthography_data'] = JSON.stringify(Array(12));
+            console.log('Crear localStorage');
+        }
+        else {
+            this.data_level = JSON.parse(localStorage['orthography_data']);
+            console.log('Leer localStorage');
+        }
+
         this.init = function(level, mode) {
             this.level = level;
             this.mode = mode;
             this.point_count = 0;
-            document.getElementById('point-bar').innerHTML = '';
+
             if (this.mode == '1') {
                 this.win_level = 5;
             }
             else if (this.mode == '2') {
                 this.win_level = 5;
             }
+
+            document.getElementById('point-bar').innerHTML = '';
             document.getElementById('world-menu').classList.toggle('hidden');
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
@@ -151,6 +163,9 @@ define(function (require) {
                     this.start();
                 }
                 else {
+                    this.data_level[parseInt(this.level) - 1] = true;
+                    localStorage['orthography_data'] = JSON.stringify(this.data_level);
+                    dictstore.save(function() {});
                     var topBox = document.getElementById('top-box');
                     var answerBox = document.getElementById('answer-box');
                     topBox.innerHTML =
@@ -219,10 +234,10 @@ define(function (require) {
             game.init('4', '2');
         });
         document.getElementById('5').addEventListener('click', function() {
-            game.init('10', '1');
+            game.init('5', '2');
         });
         document.getElementById('6').addEventListener('click', function() {
-            // game.init('1', '1');
+            game.init('6', '2');
         });
         document.getElementById('7').addEventListener('click', function() {
             // game.init('1', '1');
