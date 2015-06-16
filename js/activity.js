@@ -7,6 +7,16 @@ define(function (require) {
 
     var words = null;
 
+    function count(array) {
+        var counter = 0;
+        for (var i = 0; i < array.length; i++) {
+            if (array[i]) {
+                counter++;
+            }
+        }
+        return counter;
+    }
+
     function getWords(level) {
         if (words == null) {
             words = require("words");
@@ -34,7 +44,6 @@ define(function (require) {
         else {
             this.data_level = JSON.parse(localStorage['orthography_data']);
             for (var i = 1; i <= this.data_level.length; i++) {
-                // console.log(this.data_level[i - 1]);
                 if (this.data_level[i - 1]) {
                     document.getElementById(String(i)).className = 'world world-'+ i +' done';
                 }
@@ -169,24 +178,39 @@ define(function (require) {
                     this.start();
                 }
                 else {
+
                     this.data_level[parseInt(this.level) - 1] = true;
                     localStorage['orthography_data'] = JSON.stringify(this.data_level);
                     dictstore.save(function() {});
-                    var topBox = document.getElementById('top-box');
-                    var answerBox = document.getElementById('answer-box');
-                    topBox.innerHTML =
-                    '<h1>¡Felicidades, has completado este mundo!</h1>';
-                    answerBox.innerHTML =
-                    '<p><strong>Has ganado una medalla</strong></p>' +
-                    '<p><span class="medal"></span></p>' +
-                    '<p><button id="next">Continuar</button></p>';
 
-                    document.getElementById('next').addEventListener('click', function() {
-                        document.getElementById('world-menu').classList.toggle('hidden');
+                    if (count(this.data_level) >= 3) {
+                        document.getElementById('history-end').classList.toggle('hidden');
                         document.getElementById('box-game').classList.toggle('hidden');
                         document.getElementById('point-bar').classList.toggle('hidden');
                         document.getElementById('walking-character').className = 'hidden';
-                    })
+
+                        document.getElementById('next').addEventListener('click', function() {
+                            document.getElementById('world-menu').classList.toggle('hidden');
+                            document.getElementById('history-end').classList.toggle('hidden');
+                        });
+                    }
+                    else {
+                        var topBox = document.getElementById('top-box');
+                        var answerBox = document.getElementById('answer-box');
+                        topBox.innerHTML =
+                        '<h1>¡Felicidades, has completado este mundo!</h1>';
+                        answerBox.innerHTML =
+                        '<p><strong>Has ganado una medalla</strong></p>' +
+                        '<p><span class="medal"></span></p>' +
+                        '<p><button id="next">Continuar</button></p>';
+
+                        document.getElementById('next').addEventListener('click', function() {
+                            document.getElementById('world-menu').classList.toggle('hidden');
+                            document.getElementById('box-game').classList.toggle('hidden');
+                            document.getElementById('point-bar').classList.toggle('hidden');
+                            document.getElementById('walking-character').className = 'hidden';
+                        });
+                    }
 
                 }
             }
@@ -221,7 +245,7 @@ define(function (require) {
             document.getElementById('history').classList.toggle('hidden');
             document.getElementById('history-gender').innerHTML =
             "Lalo debe encontrar a su hermana y tienes la misión de ayudarle.";
-            // document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('end-gender').innerHTML = "Lola";
             document.getElementById('world-character').className = 'boy-world';
             game.character = 1;
         });
@@ -230,7 +254,7 @@ define(function (require) {
             document.getElementById('history').classList.toggle('hidden');
             document.getElementById('history-gender').innerHTML =
             "Lola debe encontrar a su hermano y tienes la misión de ayudarle.";
-            // document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('end-gender').innerHTML = "Lalo";
             document.getElementById('world-character').className = 'girl-world';
             game.character = 2;
         });
@@ -260,6 +284,7 @@ define(function (require) {
         });
         document.getElementById('7').addEventListener('click', function() {
             // game.init('1', '1');
+            game.init('1', '2');
         });
         document.getElementById('8').addEventListener('click', function() {
             // game.init('1', '1');
