@@ -1,3 +1,8 @@
+@font-face {
+  font-family: lobster;
+  src: url(../images/lobster.otf) format("opentype");
+}
+
 #main-toolbar #activity-button {
   background-image: url(../activity/activity-icon.svg);
 }
@@ -5,7 +10,7 @@
 #canvas {
   margin-right: 0;
   margin-left: 0;
-  background: url(../images/bg_test.jpg) no-repeat 0 0;
+  background: url(../images/bg_general.png) no-repeat 0 0;
 }
 
 #box-game {
@@ -19,14 +24,28 @@
 }
 
 #character {
+  width: 550px;
   position: absolute;
-  left: 287px;
-  top: 170px;
-  width: 450px;
+  top: 50px;
+  left: 240px;
+}
+
+#character h2, #character h1 {
+  text-align: center;
+}
+
+#character h2 {
+  color: #603813;
 }
 
 #character h1 {
-  text-align: center;
+  background: url(../images/lazo-grande.png) center center no-repeat;
+  padding: 30px 60px 20px 60px;
+  height: 100px;
+  font-family: lobster;
+  font-size: 35px !important;
+  color: #fff;
+  margin-top: 0px;
 }
 
 #box-game button {
@@ -162,7 +181,64 @@ input[type=text]#answer {
   text-align: center;
   display: block;
   width: 80px;
-  height: 50px;
+  height: 100px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.world-1 {
+  background: url(../images/world-1-logo.png) center bottom no-repeat;
+}
+
+.world-2 {
+  background: url(../images/world-2-logo.png) center bottom no-repeat;
+}
+
+.world-3 {
+  background: url(../images/world-3-logo.png) center bottom no-repeat;
+}
+
+.world-4 {
+  background: url(../images/world-4-logo.png) center bottom no-repeat;
+}
+
+.world-5 {
+  background: url(../images/world-5-logo.png) center bottom no-repeat;
+}
+
+.world-6 {
+  background: url(../images/world-6-logo.png) center bottom no-repeat;
+}
+
+.world-7 {
+  background: url(../images/world-7-logo.png) center bottom no-repeat;
+}
+
+.world-8 {
+  background: url(../images/world-8-logo.png) center bottom no-repeat;
+}
+
+.world-9 {
+  background: url(../images/world-9-logo.png) center bottom no-repeat;
+}
+
+.world-10 {
+  background: url(../images/world-10-logo.png) center bottom no-repeat;
+}
+
+.world-11 {
+  background: url(../images/world-11-logo.png) center bottom no-repeat;
+}
+
+.world-12 {
+  background: url(../images/world-12-logo.png) center bottom no-repeat;
+}
+
+#world-menu h1 {
+  font-family: lobster;
+  font-size: 50px;
+  color: #fff;
+  text-align: center;
 }
 
 .medal {
@@ -174,17 +250,24 @@ input[type=text]#answer {
 
 .characters {
   display: inline-block;
-  width: 82px;
-  height: 150px;
+  width: 250px;
+  padding-top: 190px;
+  padding-bottom: 10px;
+  border: 1px solid #b77d29;
+  border-radius: 5px;
+  font-family: lobster;
+  font-size: 40px;
+  color: #603813;
+  text-align: center;
 }
 
 #boy {
-  background: url(../images/boy.png);
+  background: url(../images/boy.png) center center no-repeat #ffad3b;
+  float: right;
 }
 
 #girl {
-  background: url(../images/girl.png);
-  float: right;
+  background: url(../images/girl.png) center center no-repeat #ffad3b;
 }
 
 #walking-character {
@@ -203,3 +286,4 @@ input[type=text]#answer {
 .boy-1 {
   background: url(../images/boy-1.png);
 }
+

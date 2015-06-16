@@ -33,6 +33,12 @@ define(function (require) {
         }
         else {
             this.data_level = JSON.parse(localStorage['orthography_data']);
+            for (var i = 1; i <= this.data_level.length; i++) {
+                // console.log(this.data_level[i - 1]);
+                if (this.data_level[i - 1]) {
+                    document.getElementById(String(i)).className = 'world world-'+ i +' done';
+                }
+            }
             console.log('Leer localStorage');
         }
 
@@ -212,13 +218,24 @@ define(function (require) {
 
         document.getElementById('boy').addEventListener('click', function() {
             document.getElementById('character').classList.toggle('hidden');
-            document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('history').classList.toggle('hidden');
+            document.getElementById('history-gender').innerHTML =
+            "Lalo debe encontrar a su hermana y tienes la misión de ayudarle.";
+            // document.getElementById('world-menu').classList.toggle('hidden');
             game.character = 1;
         });
         document.getElementById('girl').addEventListener('click', function() {
             document.getElementById('character').classList.toggle('hidden');
-            document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('history').classList.toggle('hidden');
+            document.getElementById('history-gender').innerHTML =
+            "Lola debe encontrar a su hermano y tienes la misión de ayudarle.";
+            // document.getElementById('world-menu').classList.toggle('hidden');
             game.character = 2;
+        });
+
+        document.getElementById('history-next').addEventListener('click', function() {
+            document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('history').classList.toggle('hidden');
         });
 
         document.getElementById('1').addEventListener('click', function() {
