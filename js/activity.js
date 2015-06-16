@@ -222,6 +222,7 @@ define(function (require) {
             document.getElementById('history-gender').innerHTML =
             "Lalo debe encontrar a su hermana y tienes la misión de ayudarle.";
             // document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('world-character').className = 'boy-world';
             game.character = 1;
         });
         document.getElementById('girl').addEventListener('click', function() {
@@ -230,6 +231,7 @@ define(function (require) {
             document.getElementById('history-gender').innerHTML =
             "Lola debe encontrar a su hermano y tienes la misión de ayudarle.";
             // document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('world-character').className = 'girl-world';
             game.character = 2;
         });
 
