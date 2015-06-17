@@ -36,20 +36,22 @@ define(function (require) {
         this.point_count = 0;
         this.win_level =  0;
         this.character = 0;
+        this.data_level = Array(12);
 
-        if (!localStorage['orthography_data']) {
-            localStorage['orthography_data'] = JSON.stringify(Array(12));
-            console.log('Crear localStorage');
-        }
-        else {
-            this.data_level = JSON.parse(localStorage['orthography_data']);
-            for (var i = 1; i <= this.data_level.length; i++) {
-                if (this.data_level[i - 1]) {
-                    document.getElementById(String(i)).className = 'world world-'+ i +' done';
+        function onStoreReady() {
+            if (localStorage['level']) {
+                this.data_level = JSON.parse(localStorage['level']);
+                for (var i = 1; i <= this.data_level.length; i++) {
+                    if (this.data_level[i - 1]) {
+                        document.getElementById(String(i)).className = 'world world-'+ i +' done';
+                    }
                 }
+                console.log('Leer localStorage');
             }
-            console.log('Leer localStorage');
         }
+
+        dictstore.init(onStoreReady);
+
 
         this.init = function(level, mode) {
             this.level = level;
@@ -173,23 +175,28 @@ define(function (require) {
             if (answer.toLowerCase() == this.answer.toLowerCase()) {
                 this.error_count = 0;
                 this.point_count += 1;
+                // Siguiente pregunta
                 if (this.point_count < this.win_level) {
                     this.setBar();
                     this.start();
                 }
+
+                // Fin de nivel
                 else {
 
                     this.data_level[parseInt(this.level) - 1] = true;
-                    localStorage['orthography_data'] = JSON.stringify(this.data_level);
-                    dictstore.save(function() {});
+                    localStorage['level'] = JSON.stringify(this.data_level);
+                    dictstore.save();
+                    console.log(localStorage['level']);
 
-                    if (count(this.data_level) >= 3) {
+                    // Fin de juego
+                    if (count(this.data_level) >= 12) {
                         document.getElementById('history-end').classList.toggle('hidden');
                         document.getElementById('box-game').classList.toggle('hidden');
                         document.getElementById('point-bar').classList.toggle('hidden');
                         document.getElementById('walking-character').className = 'hidden';
 
-                        document.getElementById('next').addEventListener('click', function() {
+                        document.getElementById('end-next').addEventListener('click', function() {
                             document.getElementById('world-menu').classList.toggle('hidden');
                             document.getElementById('history-end').classList.toggle('hidden');
                         });
