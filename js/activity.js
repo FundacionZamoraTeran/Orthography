@@ -183,10 +183,11 @@ define(function (require) {
 
                 // Fin de nivel
                 else {
-
+                    console.log(this.data_level);
                     this.data_level[parseInt(this.level) - 1] = true;
-                    localStorage['level'] = JSON.stringify(this.data_level);
-                    dictstore.save();
+                    console.log(this.data_level);
+/*                    localStorage['level'] = JSON.stringify(this.data_level);
+                    dictstore.save();*/
                     console.log(localStorage['level']);
 
                     // Fin de juego

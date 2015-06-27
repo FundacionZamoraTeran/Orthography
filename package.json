@@ -4,7 +4,8 @@
     "baseUrl": "lib",
     "dependencies": {
       "sugar-web": "github:sugarlabs/sugar-web/master",
-      "domReady": "github:requirejs/domReady/2.0.1"
+      "domReady": "github:requirejs/domReady/2.0.1",
+      "jquery": "github:jquery/jquery/2.1.4"
     }
   }
 }
