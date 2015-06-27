@@ -1,10 +1,11 @@
 define(function (require) {
+    var jquery = require("jquery");
     var activity = require("sugar-web/activity/activity");
     var palette = require("sugar-web/graphics/palette");
     var icon = require("sugar-web/graphics/icon");
     var dictstore = require("sugar-web/dictstore")
     var l10n = require("webL10n");
-
+    var spritely = require("spritely");
     var words = null;
 
     function count(array) {
@@ -69,6 +70,7 @@ define(function (require) {
             document.getElementById('world-menu').classList.toggle('hidden');
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
+            document.getElementById('land').classList.toggle('hidden');
             if (this.character == 1) {
                 document.getElementById('walking-character').className = 'boy-1';
             }
@@ -200,6 +202,8 @@ define(function (require) {
                         document.getElementById('end-next').addEventListener('click', function() {
                             document.getElementById('world-menu').classList.toggle('hidden');
                             document.getElementById('history-end').classList.toggle('hidden');
+                            document.getElementById('land').classList.toggle('hidden');
+
                         });
                     }
                     else {
@@ -214,6 +218,7 @@ define(function (require) {
 
                         document.getElementById('next').addEventListener('click', function() {
                             document.getElementById('world-menu').classList.toggle('hidden');
+                            document.getElementById('land').classList.toggle('hidden');
                             document.getElementById('box-game').classList.toggle('hidden');
                             document.getElementById('point-bar').classList.toggle('hidden');
                             document.getElementById('walking-character').className = 'hidden';
@@ -233,6 +238,7 @@ define(function (require) {
                 if (this.error_count >= 5) {
                     this.error_count = 0;
                     document.getElementById('world-menu').classList.toggle('hidden');
+                    document.getElementById('land').classList.toggle('hidden');
                     document.getElementById('box-game').classList.toggle('hidden');
                     document.getElementById('point-bar').classList.toggle('hidden');
                 }
@@ -245,9 +251,8 @@ define(function (require) {
 
     require(['domReady!'], function (doc) {
         activity.setup();
-
         game = new Game();
-
+        $('#land').pan({fps: 30, speed: 0.7, dir: 'left', depth: 10});
         document.getElementById('boy').addEventListener('click', function() {
             document.getElementById('character').classList.toggle('hidden');
             document.getElementById('history').classList.toggle('hidden');

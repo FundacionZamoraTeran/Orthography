@@ -2,7 +2,9 @@ requirejs.config({
     baseUrl: "lib",
     paths: {
         activity: "../js",
-        words: "../js/word_list"
+        jquery: "../js/jquery",
+        words: "../js/word_list",
+        spritely: "../js/spritely",
     }
 });
 

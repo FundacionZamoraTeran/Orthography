@@ -339,3 +339,8 @@ input[type=text]#answer {
   background: url(../images/boy-1.png);
 }
 
+#land {
+  width: 1190px;
+  height: 815px;
+  background: url(../images/land.png) left top repeat-x;
+}
