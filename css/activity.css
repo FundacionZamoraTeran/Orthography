@@ -173,6 +173,9 @@ input[type=text]#answer {
 
 #point-bar {
   margin: 10px;
+  z-index: 2000 !important;
+  position: absolute;
+  top: 0;
 }
 
 .star {
@@ -180,6 +183,7 @@ input[type=text]#answer {
   width: 24px;
   height: 24px;
   background: url(../images/star.png) no-repeat 0 0;
+  z-index: 2000 !important;
 }
 
 .world {
@@ -342,5 +346,6 @@ input[type=text]#answer {
 #land {
   width: 1190px;
   height: 815px;
-  background: url(../images/land.png) left top repeat-x;
+  z-index: 100 !important;
+  overflow: hidden;
 }

@@ -71,6 +71,10 @@ define(function (require) {
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
             document.getElementById('land').classList.toggle('hidden');
+            $('#land').pan({fps: 30, speed: 0.3, dir: 'left'});
+            $('#land').spStart();
+            $('#land').css('background', 'url(../images/land-' + level + '.png) left top repeat-x');
+            console.log('Iniciar animacion');
             if (this.character == 1) {
                 document.getElementById('walking-character').className = 'boy-1';
             }
@@ -98,8 +102,6 @@ define(function (require) {
         this.interface = function() {
             document.getElementById('top-box').innerHTML = '<h1 id="sentence" class="main-sentence"></h1>';
             boxGame = document.getElementById('box-game');
-            // boxGame.style.left = String((window.innerWidth / 2) - (boxGame.offsetWidth / 2)) + "px";
-            // boxGame.style.top = String((window.innerHeight / 3) - (boxGame.offsetHeight)) + "px";
             sentence = document.getElementById('sentence');
             answerBox = document.getElementById('answer-box');
             if (this.mode == '1') {
@@ -203,6 +205,7 @@ define(function (require) {
                             document.getElementById('world-menu').classList.toggle('hidden');
                             document.getElementById('history-end').classList.toggle('hidden');
                             document.getElementById('land').classList.toggle('hidden');
+                            $('#land').spStop(true);
 
                         });
                     }
@@ -222,6 +225,7 @@ define(function (require) {
                             document.getElementById('box-game').classList.toggle('hidden');
                             document.getElementById('point-bar').classList.toggle('hidden');
                             document.getElementById('walking-character').className = 'hidden';
+                            $('#land').spStop(true);
                         });
                     }
 
@@ -241,6 +245,8 @@ define(function (require) {
                     document.getElementById('land').classList.toggle('hidden');
                     document.getElementById('box-game').classList.toggle('hidden');
                     document.getElementById('point-bar').classList.toggle('hidden');
+                    document.getElementById('walking-character').className = 'hidden';
+                    $('#land').spStop(true);
                 }
                 else {
                     this.showError();
@@ -252,7 +258,6 @@ define(function (require) {
     require(['domReady!'], function (doc) {
         activity.setup();
         game = new Game();
-        $('#land').pan({fps: 30, speed: 0.7, dir: 'left', depth: 10});
         document.getElementById('boy').addEventListener('click', function() {
             document.getElementById('character').classList.toggle('hidden');
             document.getElementById('history').classList.toggle('hidden');
