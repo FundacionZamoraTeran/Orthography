@@ -71,15 +71,20 @@ define(function (require) {
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
             document.getElementById('land').classList.toggle('hidden');
+            /*
+            I didn't expect to use JQuery at the beginning, but it's required
+            by the animation libray.
+            Sorry for the spaguetti code.
+            */
+            $('#land').css('background', 'url(../images/land-' + level + '.png) left top repeat-x');
             $('#land').pan({fps: 30, speed: 0.3, dir: 'left'});
             $('#land').spStart();
-            $('#land').css('background', 'url(../images/land-' + level + '.png) left top repeat-x');
             console.log('Iniciar animacion');
             if (this.character == 1) {
                 document.getElementById('walking-character').className = 'boy-1';
             }
             else {
-                document.getElementById('walking-character').className = 'girl-1';
+                document.getElementById('walking-character').className = 'girl-sprite';
             }
             this.interface();
         }
@@ -180,6 +185,13 @@ define(function (require) {
                 this.error_count = 0;
                 this.point_count += 1;
                 // Siguiente pregunta
+                $('#walking-character').sprite({
+                    fps: 3,
+                    no_of_frames: 2,
+                    on_last_frame: function(obj) {
+                        obj.spStop();
+                    }
+                });
                 if (this.point_count < this.win_level) {
                     this.setBar();
                     this.start();
@@ -190,7 +202,7 @@ define(function (require) {
                     console.log(this.data_level);
                     this.data_level[parseInt(this.level) - 1] = true;
                     console.log(this.data_level);
-/*                    localStorage['level'] = JSON.stringify(this.data_level);
+                    /*    localStorage['level'] = JSON.stringify(this.data_level);
                     dictstore.save();*/
                     console.log(localStorage['level']);
 

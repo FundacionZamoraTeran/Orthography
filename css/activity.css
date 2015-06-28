@@ -339,6 +339,12 @@ input[type=text]#answer {
   background: url(../images/girl-1.png);
 }
 
+.girl-sprite {
+  background: url(../images/girl-sprite.png);
+  width: 86px;
+}
+
+
 .boy-1 {
   background: url(../images/boy-1.png);
 }
