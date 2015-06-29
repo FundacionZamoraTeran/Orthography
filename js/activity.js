@@ -77,7 +77,7 @@ define(function (require) {
             Sorry for the spaguetti code.
             */
             $('#land').css('background', 'url(../images/land-' + level + '.png) left top repeat-x');
-            $('#land').pan({fps: 30, speed: 0.3, dir: 'left'});
+            $('#land').pan({fps: 30, speed: 0.7, dir: 'left'});
             $('#land').spStart();
             console.log('Iniciar animacion');
             if (this.character == 1) {
