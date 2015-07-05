@@ -4457,6 +4457,1501 @@ define(function (require) {
                 'concept': 'Se escribe con J: Las palabras que contienen las secuencias ja, jo, ju.'
             },
         ],
+        '7' : [
+            {
+                'sentence': 'va_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'deta_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'mue_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'se_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'cabe_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ca_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'pasaca_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'retue_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'aque_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'came_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ta_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'enta_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'armue_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'atrope_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'cue_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'metra_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'avasa_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ensi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'mura_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'cepi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'cuchi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'bote_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'estre_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'caudi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'patru_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'bu_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'caba_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'vi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'rodi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'hebi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'capi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'vaji_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'piti_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'torni_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ladri_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'gati_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'si_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'pasti_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'cuchari_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'casi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'meji_a',
+                'answer': '',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ganchi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'tresi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'gri_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'rosqui_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'coli_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'mascari_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ori_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'manzani_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'tobi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'pi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'pasi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'bolsi_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'bote_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ani_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'ga_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'po_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'semi_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'amari_o',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'torti_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
+            },
+            {
+                'sentence': 'fa_a',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'fa_ecer',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+
+            },
+            {
+                'sentence': 'fa_ido',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'fo_ón',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'fo_eto',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'fo_aje',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'fo_etín',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'fue_e',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
+            },
+            {
+                'sentence': 'zambu_ir',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'engu_ir',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'ensi_ar',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'patru_ar',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'acuchi_ar',
+                'answer': 'l',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'tra_ecto',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'in_ectiva',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'ab_ecto',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'pro_ecto',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'bi_ectiva',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'ob_ecto',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'in_ección',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'supra_ectiva',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'de_ecto',
+                'answer': 'y',
+                'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
+            },
+            {
+                'sentence': 'ad_acente',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Las palabras que empiezan por ad, dis, sub.'
+            },
+            {
+                'sentence': 'ad_uvante',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Las palabras que empiezan por ad, dis, sub.'
+            },
+            {
+                'sentence': 'dis_unto',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Las palabras que empiezan por ad, dis, sub.'
+            },
+            {
+                'sentence': 'dis_untiva',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Las palabras que empiezan por ad, dis, sub.'
+            },
+            {
+                'sentence': 'sub_ugar',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Las palabras que empiezan por ad, dis, sub.'
+            },
+            {
+                'sentence': 'sub_acer',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Las palabras que empiezan por ad, dis, sub.'
+            },
+            {
+                'sentence': 're_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'mu_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'so_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'bue_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'Urugua_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'Villagua_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'ho_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'convo_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'hu_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'ha_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'Elo_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'fra_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'le_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'esto_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'vo_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'Paragua_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'gre_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'a_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'mame_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'virre_',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al final de palabra.'
+            },
+            {
+                'sentence': 'pa_aso',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_eso',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'a_er',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'so_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ra_os',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ho_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ma_onesa',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'gua_aba',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'a_udante',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ca_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'a_ote',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'desa_uno',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_ema',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_uca',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_ate',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ma_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'co_ote',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_arda',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'pa_aso',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_ugo',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_ogur',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_acer',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_oga',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_aracuyano',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_erno',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'papaga_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'urugua_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_egua',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ra_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'guacama_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'paraguay_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': '_ermo',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'bo_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'ensa_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'dilu_e',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'pla_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'chirimo_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'plebe_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'atala_a',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+            {
+                'sentence': 'su_o',
+                'answer': 'y',
+                'concept': 'Se escribe con Y: Al principio o interior de palabra, si va seguida de vocal.'
+            },
+        ],
+        '8': [
+            {
+                'sentence': '_ilolitro',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilohercio',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilovatio',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilogramo',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilocaloría',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilociclo',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilotex',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilómetro',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilopondio',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_ilográmetro',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Las palabras que tienen el prefijo kilo.'
+            },
+            {
+                'sentence': '_áiser',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_indergarten',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_irsch',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_oblenz',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_irie',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_ibutz',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_iwi',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_imono',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_ermés',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_iosco',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_arateca',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'ti_al',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_árate',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'to_io',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_oala',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_etchup',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_antiano',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_an',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'vi_ingo',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'Pa_istán',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'katius_a',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_listrón',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_urdo',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_appa',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'kaf_iano',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'Pe_ín',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_ayac',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_irguís',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_ansas',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_remlin',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_ril',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_rausismo',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_arma',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_éfir',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': '_remlinología',
+                'answer': 'k',
+                'concept': 'Se escribe con K: Algunas palabras extranjeras.'
+            },
+            {
+                'sentence': 'defe_to',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'exa_to',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 're_ta',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'ta_to',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'coña_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'viva_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_asa',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_olor',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_una',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_ara',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_osa',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_ubeta',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_ocodrilo',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'a_né',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'a_to',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'fu_sia',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'dra_ma',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'es_oba',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'es_alera',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'uni_ornio',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_oco',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_amisa',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_alma',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_ostal',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'pelu_a',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_adena',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_olmena',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_arne',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_anoa',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'blan_o',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_obre',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_able',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_uatro',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'chi_a',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_achorro',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_uadro',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_ocinero',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'cómi_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'cin_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'fra_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'ti_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': 'cli_',
+                'answer': 'c',
+                'concept': 'Se escribe C: Ante las vocales a, o, u, o delante de cualquier consonante y cuando es final de sílaba.'
+            },
+            {
+                'sentence': '_uebrada',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uedar',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_ueja',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_ueso',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uechua',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uímica',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uijada',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uina',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uinto',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uiste',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'colo_ué',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'recal_ué',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'desta_ue',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'sofo_uemos',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'edú_uese',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'acer_uémonos',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'concul_ué',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'enfo_uemos',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'emblan_uecer',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'ban_uillo',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'bar_uita',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'ar_uería',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'cer_uillo',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'hor_uilla',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'pa_uete',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uebradero',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uicio',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uedo',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uerubín',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uince',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uebrantar',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uehacer',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_ueltehue',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_ueroseno',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uiebra',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uebradizo',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uechua',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_ueja',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uerella',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uetzal',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'in_uietar',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'ra_ueta',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'lí_uido',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'pe_ueño',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'má_uina',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'cha_ueta',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'bu_ue',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_ueja',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'tan_ue',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'po_uito',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'e_uipo',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'es_uema',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'ma_uila',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'ma_ueta',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'mos_uito',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'peri_uito',
+                'answer': '',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'ros_uilla',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uesillo',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uesadilla',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'mante_uilla',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uerer',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': 'cos_uilla',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+            {
+                'sentence': '_uintal',
+                'answer': 'q',
+                'concept': 'Se escribe con Q: Seguida de las vocales e, i.'
+            },
+        ],
         '10': [
             {
                 'sentence': 'Tus ----- fueron embargados.',

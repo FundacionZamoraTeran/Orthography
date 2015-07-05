@@ -73,7 +73,7 @@ define(function (require) {
             document.getElementById('land').classList.toggle('hidden');
             /*
             I didn't expect to use JQuery at the beginning, but it's required
-            by the animation libray.
+            by the animation library.
             Sorry for the spaguetti code.
             */
             $('#land').css('background', 'url(../images/land-' + level + '.png) left top repeat-x');
@@ -81,11 +81,13 @@ define(function (require) {
             $('#land').spStart();
             console.log('Iniciar animacion');
             if (this.character == 1) {
-                document.getElementById('walking-character').className = 'boy-1';
+                document.getElementById('walking-character').className = 'boy-' +  level;
             }
             else {
-                document.getElementById('walking-character').className = 'girl-sprite';
+                document.getElementById('walking-character').className = 'girl-' + level;
             }
+
+
             this.interface();
         }
 
@@ -187,10 +189,8 @@ define(function (require) {
                 // Siguiente pregunta
                 $('#walking-character').sprite({
                     fps: 3,
-                    no_of_frames: 2,
-                    on_last_frame: function(obj) {
-                        obj.spStop();
-                    }
+                    no_of_frames: 3,
+                    play_frames: 3
                 });
                 if (this.point_count < this.win_level) {
                     this.setBar();
@@ -313,23 +313,26 @@ define(function (require) {
             game.init('6', '2');
         });
         document.getElementById('7').addEventListener('click', function() {
-            // game.init('1', '1');
-            game.init('1', '2');
+            game.init('7', '2');
         });
         document.getElementById('8').addEventListener('click', function() {
-            // game.init('1', '1');
+            game.init('8', '2');
         });
         document.getElementById('9').addEventListener('click', function() {
             // game.init('1', '1');
+            game.init('10', '1');
         });
         document.getElementById('10').addEventListener('click', function() {
             // game.init('1', '1');
+            game.init('10', '1');
         });
         document.getElementById('11').addEventListener('click', function() {
             // game.init('1', '1');
+            game.init('10', '1');
         });
         document.getElementById('12').addEventListener('click', function() {
             // game.init('1', '1');
+            game.init('10', '1');
         });
     });
 });
