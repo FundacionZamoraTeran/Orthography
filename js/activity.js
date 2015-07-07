@@ -319,20 +319,16 @@ define(function (require) {
             game.init('8', '2');
         });
         document.getElementById('9').addEventListener('click', function() {
-            // game.init('1', '1');
-            game.init('10', '1');
+            game.init('9', '1');
         });
         document.getElementById('10').addEventListener('click', function() {
-            // game.init('1', '1');
             game.init('10', '1');
         });
         document.getElementById('11').addEventListener('click', function() {
-            // game.init('1', '1');
-            game.init('10', '1');
+            game.init('11', '1');
         });
         document.getElementById('12').addEventListener('click', function() {
-            // game.init('1', '1');
-            game.init('10', '1');
+            game.init('12', '1');
         });
     });
 });
