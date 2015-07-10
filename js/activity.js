@@ -200,10 +200,10 @@ define(function (require) {
 
                 // Fin de nivel
                 else {
-                    var approvedLevels = JSON.parse(localStorage['level']);
-                    approvedLevels[parseInt(this.level) - 1] = true;
-                    localStorage['level'] = JSON.stringify(approvedLevels);
-                    dictstore.save();
+                    // var approvedLevels = JSON.parse(localStorage['level']);
+                    // approvedLevels[parseInt(this.level) - 1] = true;
+                    // localStorage['level'] = JSON.stringify(approvedLevels);
+                    // dictstore.save();
 
                     // Fin de juego
                     if (count(this.data_level) >= 12) {
