@@ -1,9 +1,9 @@
 [Activity]
-name = Orthography
+name = Palaventura
 activity_version = 1
 bundle_id = org.sugarlabs.orthography
 exec = sugar-activity-web
-icon = activity-icon
+icon = volcano
 show_launcher = yes
 max_participants = 1
 summary = An orthography game

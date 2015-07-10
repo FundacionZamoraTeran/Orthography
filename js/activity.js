@@ -42,12 +42,12 @@ define(function (require) {
         function onStoreReady() {
             if (localStorage['level']) {
                 this.data_level = JSON.parse(localStorage['level']);
+                console.log(this.data_level);
                 for (var i = 1; i <= this.data_level.length; i++) {
                     if (this.data_level[i - 1]) {
                         document.getElementById(String(i)).className = 'world world-'+ i +' done';
                     }
                 }
-                console.log('Leer localStorage');
             }
         }
 
@@ -60,10 +60,10 @@ define(function (require) {
             this.point_count = 0;
 
             if (this.mode == '1') {
-                this.win_level = 5;
+                this.win_level = 70;
             }
             else if (this.mode == '2') {
-                this.win_level = 5;
+                this.win_level = 40;
             }
 
             document.getElementById('point-bar').innerHTML = '';
@@ -74,7 +74,7 @@ define(function (require) {
             /*
             I didn't expect to use JQuery at the beginning, but it's required
             by the animation library.
-            Sorry for the spaguetti code.
+            I hope you love spaguetti code.
             */
             $('#land').css('background', 'url(../images/land-' + level + '.png) left top repeat-x');
             $('#land').pan({fps: 30, speed: 0.7, dir: 'left'});
@@ -181,6 +181,7 @@ define(function (require) {
                 bar.innerHTML += '<span class="star"></span>';
             }
         }
+        var self = this;
 
         this.checkAnswer = function(answer) {
             if (answer.toLowerCase() == this.answer.toLowerCase()) {
@@ -199,12 +200,10 @@ define(function (require) {
 
                 // Fin de nivel
                 else {
-                    console.log(this.data_level);
-                    this.data_level[parseInt(this.level) - 1] = true;
-                    console.log(this.data_level);
-                    /*    localStorage['level'] = JSON.stringify(this.data_level);
-                    dictstore.save();*/
-                    console.log(localStorage['level']);
+                    var approvedLevels = JSON.parse(localStorage['level']);
+                    approvedLevels[parseInt(this.level) - 1] = true;
+                    localStorage['level'] = JSON.stringify(approvedLevels);
+                    dictstore.save();
 
                     // Fin de juego
                     if (count(this.data_level) >= 12) {
