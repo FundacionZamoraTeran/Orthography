@@ -2599,7 +2599,7 @@ define(function (require) {
             },
             {
                 'sentence': 'hipóte_is',
-                'answer': 'z',
+                'answer': 's',
                 'concept': 'Se escribe con Z: Los adjetivos terminados en az y oz.'
             },
             {
@@ -6533,7 +6533,7 @@ define(function (require) {
                 'op2': 'cayó',
                 'op1_concept': 'calló de callar',
                 'op2_concept': 'cayó de caer',
-                'answer': 'calló',
+                'answer': 'cayó',
             },
             {
                 'sentence': '¿Tú crees que ----- a la competencia?',
