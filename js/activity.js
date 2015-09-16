@@ -136,8 +136,10 @@ define(function (require) {
                     '<input type="text" id="answer">';
                 var answerInput = document.getElementById('answer');
                 answerInput.addEventListener('input', function() {
-                    game.checkAnswer(this.value);
-                    this.value = '';
+                    setTimeout(function() {
+                        game.checkAnswer(this.value);
+                        this.value = '';
+                    }, 2000);
                 });
             }
             this.start();
