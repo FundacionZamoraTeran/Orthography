@@ -136,10 +136,11 @@ define(function (require) {
                     '<input type="text" id="answer">';
                 var answerInput = document.getElementById('answer');
                 answerInput.addEventListener('input', function() {
+                    var self = this;
                     setTimeout(function() {
-                        game.checkAnswer(this.value);
-                        this.value = '';
-                    }, 2000);
+                        game.checkAnswer(self.value);
+                        self.value = '';
+                    }, 900);
                 });
             }
             this.start();
