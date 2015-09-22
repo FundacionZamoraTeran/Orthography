@@ -143,6 +143,15 @@ define(function (require) {
                     }, 900);
                 });
             }
+
+            document.getElementById('stop-game').addEventListener('click', function() {
+                document.getElementById('world-menu').classList.toggle('hidden');
+                document.getElementById('land').classList.toggle('hidden');
+                document.getElementById('box-game').classList.toggle('hidden');
+                document.getElementById('point-bar').classList.toggle('hidden');
+                document.getElementById('walking-character').className = 'hidden';
+                $('#land').spStop(true);
+            });
             this.start();
         }
 
