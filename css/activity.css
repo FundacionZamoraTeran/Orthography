@@ -458,7 +458,7 @@ input[type=text]#answer {
   left: 10px;
 }
 
-.stop-game {
+#stop-game {
   position: absolute;
   bottom: 10px;
   right: 10px;

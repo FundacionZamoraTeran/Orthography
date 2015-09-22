@@ -71,6 +71,7 @@ define(function (require) {
             document.getElementById('box-game').classList.toggle('hidden');
             document.getElementById('point-bar').classList.toggle('hidden');
             document.getElementById('land').classList.toggle('hidden');
+            document.getElementById('stop-game').classList.toggle('hidden');
             /*
             I didn't expect to use JQuery at the beginning, but it's required
             by the animation library.
@@ -149,6 +150,7 @@ define(function (require) {
                 document.getElementById('land').classList.toggle('hidden');
                 document.getElementById('box-game').classList.toggle('hidden');
                 document.getElementById('point-bar').classList.toggle('hidden');
+                document.getElementById('stop-game').classList.toggle('hidden');
                 document.getElementById('walking-character').className = 'hidden';
                 $('#land').spStop(true);
             });
@@ -228,6 +230,7 @@ define(function (require) {
                             document.getElementById('world-menu').classList.toggle('hidden');
                             document.getElementById('history-end').classList.toggle('hidden');
                             document.getElementById('land').classList.toggle('hidden');
+                            document.getElementById('stop-game').classList.toggle('hidden');
                             $('#land').spStop(true);
 
                         });
@@ -244,6 +247,7 @@ define(function (require) {
 
                         document.getElementById('next').addEventListener('click', function() {
                             document.getElementById('world-menu').classList.toggle('hidden');
+                            document.getElementById('stop-game').classList.toggle('hidden');
                             document.getElementById('land').classList.toggle('hidden');
                             document.getElementById('box-game').classList.toggle('hidden');
                             document.getElementById('point-bar').classList.toggle('hidden');
@@ -265,6 +269,7 @@ define(function (require) {
                 if (this.error_count >= 5) {
                     this.error_count = 0;
                     document.getElementById('world-menu').classList.toggle('hidden');
+                    document.getElementById('stop-game').classList.toggle('hidden');
                     document.getElementById('land').classList.toggle('hidden');
                     document.getElementById('box-game').classList.toggle('hidden');
                     document.getElementById('point-bar').classList.toggle('hidden');
