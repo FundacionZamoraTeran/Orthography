@@ -278,11 +278,11 @@ define(function (require) {
         activity.setup();
         game = new Game();
         document.getElementById('stop-game').addEventListener('click', function() {
-            document.getElementById('world-menu').classList.toggle('hidden');
-            document.getElementById('land').classList.toggle('hidden');
-            document.getElementById('box-game').classList.toggle('hidden');
-            document.getElementById('point-bar').classList.toggle('hidden');
-            document.getElementById('stop-game').classList.toggle('hidden');
+            document.getElementById('world-menu').className = 'hidden';
+            document.getElementById('land').className = 'hidden';
+            document.getElementById('box-game').className = 'hidden';
+            document.getElementById('point-bar').className = 'hidden';
+            document.getElementById('stop-game').className = 'hidden';
             document.getElementById('walking-character').className = 'hidden';
             $('#land').spStop(true);
         });
