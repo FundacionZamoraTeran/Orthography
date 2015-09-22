@@ -145,15 +145,6 @@ define(function (require) {
                 });
             }
 
-            document.getElementById('stop-game').addEventListener('click', function() {
-                document.getElementById('world-menu').classList.toggle('hidden');
-                document.getElementById('land').classList.toggle('hidden');
-                document.getElementById('box-game').classList.toggle('hidden');
-                document.getElementById('point-bar').classList.toggle('hidden');
-                document.getElementById('stop-game').classList.toggle('hidden');
-                document.getElementById('walking-character').className = 'hidden';
-                $('#land').spStop(true);
-            });
             this.start();
         }
 
@@ -286,6 +277,15 @@ define(function (require) {
     require(['domReady!'], function (doc) {
         activity.setup();
         game = new Game();
+        document.getElementById('stop-game').addEventListener('click', function() {
+            document.getElementById('world-menu').classList.toggle('hidden');
+            document.getElementById('land').classList.toggle('hidden');
+            document.getElementById('box-game').classList.toggle('hidden');
+            document.getElementById('point-bar').classList.toggle('hidden');
+            document.getElementById('stop-game').classList.toggle('hidden');
+            document.getElementById('walking-character').className = 'hidden';
+            $('#land').spStop(true);
+        });
         document.getElementById('boy').addEventListener('click', function() {
             document.getElementById('character').classList.toggle('hidden');
             document.getElementById('history').classList.toggle('hidden');
