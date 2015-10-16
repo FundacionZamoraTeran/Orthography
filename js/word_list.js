@@ -6435,7 +6435,7 @@ define(function (require) {
                 'op2': 'jinete',
                 'op1_concept': 'ginete no existe en el diccionario',
                 'op2_concept': 'jinete Hombre que monta a caballo.',
-                'answer': '',
+                'answer': 'jinete',
             },
             {
                 'sentence': 'A los niños les encanta -----.',
