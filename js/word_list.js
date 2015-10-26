@@ -4460,202 +4460,202 @@ define(function (require) {
         '7' : [
             {
                 'sentence': 'va_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'deta_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'mue_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'se_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'cabe_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ca_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'pasaca_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'retue_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'aque_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'came_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ta_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'enta_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'armue_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'atrope_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'cue_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'metra_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'avasa_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ensi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'mura_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'cepi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'cuchi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'bote_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'estre_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'caudi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'patru_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'bu_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'caba_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'vi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'rodi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'hebi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'capi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'vaji_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'piti_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'torni_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ladri_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'gati_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'si_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'pasti_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'cuchari_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'casi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
@@ -4665,163 +4665,163 @@ define(function (require) {
             },
             {
                 'sentence': 'ganchi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'tresi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'gri_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'rosqui_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'coli_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'mascari_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ori_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'manzani_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'tobi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'pi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'pasi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'bolsi_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'bote_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ani_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'ga_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'po_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'semi_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'amari_o',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'torti_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que terminan en alle, elle, ello, illa, illo, alla, ella, ulla, olla, allo, ollo.'
             },
             {
                 'sentence': 'fa_a',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'fa_ecer',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
 
             },
             {
                 'sentence': 'fa_ido',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'fo_ón',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'fo_eto',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'fo_aje',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'fo_etín',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'fue_e',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Las palabras que empiezan por fa, fo, fu.'
             },
             {
                 'sentence': 'zambu_ir',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
             },
             {
                 'sentence': 'engu_ir',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
             },
             {
                 'sentence': 'ensi_ar',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
             },
             {
                 'sentence': 'patru_ar',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
             },
             {
                 'sentence': 'acuchi_ar',
-                'answer': 'l',
+                'answer': 'll',
                 'concept': 'Se escribe con Ll: Los verbos terminados en llir y llar.'
             },
             {

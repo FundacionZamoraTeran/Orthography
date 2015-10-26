@@ -136,7 +136,7 @@ define(function (require) {
                     '<h2 class="option-title">Escribe la letra que falta</h2>' +
                     '<input type="text" id="answer">';
                 var answerInput = document.getElementById('answer');
-                answerInput.addEventListener('input', function() {
+                answerInput.addEventListener('change', function() {
                     var self = this;
                     setTimeout(function() {
                         game.checkAnswer(self.value);
