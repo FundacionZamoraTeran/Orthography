@@ -6170,8 +6170,7 @@ define(function (require) {
                 'answer': 'pase',
             },
             {
-                'sentence': 'Su situación económica era tan desesperada que se encontraba como hundido en una
-            profunda -----.',
+                'sentence': 'Su situación económica era tan desesperada que se encontraba como hundido en una profunda -----.',
                 'op1': 'sima',
                 'op2': 'cima',
                 'op1_concept': 'hoyo profundo, abismo',
