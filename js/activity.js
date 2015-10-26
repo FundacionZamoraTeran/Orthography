@@ -60,10 +60,10 @@ define(function (require) {
             this.point_count = 0;
 
             if (this.mode == '1') {
-                this.win_level = 70;
+                this.win_level = 40;
             }
             else if (this.mode == '2') {
-                this.win_level = 40;
+                this.win_level = 70;
             }
 
             document.getElementById('point-bar').innerHTML = '';
