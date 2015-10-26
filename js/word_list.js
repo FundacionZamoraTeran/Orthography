@@ -6161,7 +6161,6 @@ define(function (require) {
                 'op2_concept': 'de saber',
                 'answer': 'sepa',
             },
-
             {
                 'sentence': 'Conseguí un ----- para la función de esta noche.',
                 'op1': 'pase',
