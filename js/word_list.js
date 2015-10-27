@@ -6947,7 +6947,7 @@ define(function (require) {
                 'op2': 'hacia',
                 'op1_concept': 'parte del mundo',
                 'op2_concept': 'preposición',
-                'answer': 'preposición',
+                'answer': 'hacia',
             },
             {
                 'sentence': 'Cuando yo te avise, ----- tú de la cuerda.',
